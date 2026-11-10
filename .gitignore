@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+test_ascom.db
+ascom_dev.db
+test_uploads/
+uploads/
+.env
+node_modules/
+.next/
+frontend/.next/
+*.log
