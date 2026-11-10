@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
 import { Inter, Plus_Jakarta_Sans } from "next/font/google";
+import { siteUrl } from "@/lib/utils";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const display = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-display" });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"),
+  metadataBase: new URL(siteUrl()),
   title: { default: "ASCOM International", template: "%s · ASCOM International" },
   description: "ASCOM International takes work from the idea to the finished piece. Lahore.",
   openGraph: { type: "website", siteName: "ASCOM International" },

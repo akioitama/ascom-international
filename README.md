@@ -1,21 +1,12 @@
 # ASCOM International
 
-A separate Next.js site and FastAPI service for ASCOM International. Company copy is stored in PostgreSQL and edited in the admin dashboard. The public text comes from the current website at https://ascomintl.com/, checked on 9 November 2026. Claims that could not be verified are listed in `docs/verification-needed.md` and are not shown as facts.
-
-## What you get
-
-- Public site: home, about, businesses, products, projects, industries, resources, careers, contact, and the code of conduct.
-- API under `/api/v1`, with OpenAPI at `http://localhost:8000/docs`.
-- Admin at `/admin` for company details, homepage copy, divisions, products, projects, organisations, resources, vacancies, applications, inquiries, statistics, and uploads.
-- Inquiries and CVs are stored in the database. Uploaded files stay in the backend `uploads` folder.
+The public website for ASCOM International. Page content lives in `frontend/content/site.json`. There is no database and no sign-in. The contact form opens the visitor's email program.
 
 ## Requirements
 
 Node.js 22.
 
 ## Run locally
-
-The site does not use a database or a sign-in. Page content lives in `frontend/content/site.json`.
 
 ```powershell
 cd h:\Projects\Ascom\ascom-international\frontend
@@ -25,7 +16,11 @@ npm run dev
 
 Open http://localhost:3000.
 
-The contact form opens the visitor's email program. It does not save the message.
+## Deploy on Vercel
+
+Import [the GitHub repository](https://github.com/akioitama/ascom-international). Before the first deploy, set **Root Directory** to `frontend`. Leave the framework as Next.js, and leave the install, build, and output commands on their defaults (`npm install`, `npm run build`, `.next`).
+
+No environment variables are required. Vercel fills the sitemap and page addresses from the deployment URL. To use a custom domain such as `https://ascomintl.com` in those addresses, add `NEXT_PUBLIC_SITE_URL` with that exact value and redeploy.
 
 ## Content rules
 

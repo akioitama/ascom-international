@@ -2,12 +2,13 @@ import { Footer } from "@/components/site/footer";
 import { Header } from "@/components/site/header";
 import { OrganizationJson } from "@/components/site/organization-json";
 import { getCategories, getCompany, getDivisions } from "@/lib/content";
+import { siteUrl } from "@/lib/utils";
 
 export default function SiteLayout({ children }: { children: React.ReactNode }) {
   const { profile: company } = getCompany();
   const divisions = getDivisions();
   const categories = getCategories();
-  const site = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const site = siteUrl();
 
   return (
     <>

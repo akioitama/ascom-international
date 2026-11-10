@@ -1,8 +1,9 @@
 import type { MetadataRoute } from "next";
 import { getDivisions, getIndustries, getProducts, getProjects } from "@/lib/content";
+import { siteUrl } from "@/lib/utils";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const site = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const site = siteUrl();
   const paths = [
     "",
     "/about",

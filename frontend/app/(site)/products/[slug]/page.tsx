@@ -7,6 +7,7 @@ import { Photo } from "@/components/site/photo";
 import { Prose } from "@/components/site/prose";
 import { Button } from "@/components/ui/button";
 import { getProduct } from "@/lib/content";
+import { siteUrl } from "@/lib/utils";
 
 type Params = { slug: string };
 
@@ -28,7 +29,7 @@ export default async function ProductPage({ params }: { params: Promise<Params> 
   if (!product) notFound();
   const hasSpecs = (product.specs?.length ?? 0) > 0;
   const hasDocuments = (product.documents?.length ?? 0) > 0;
-  const site = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+  const site = siteUrl();
   const schema = {
     "@context": "https://schema.org",
     "@type": "Product",
