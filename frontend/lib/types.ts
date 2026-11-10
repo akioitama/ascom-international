@@ -22,6 +22,7 @@ export type Company = {
   map_factory_lat: string | null;
   map_factory_lng: string | null;
   map_factory_note: string | null;
+  map_office_url?: string | null;
   seo_title: string;
   seo_description: string;
 };

@@ -16,8 +16,11 @@ export default function SiteLayout({ children }: { children: React.ReactNode }) 
       <Header
         phone={company.phone_primary}
         email={company.email_primary}
-        divisions={divisions.filter((item) => item.show_in_navigation !== false).map((item) => ({ href: `/businesses/${item.slug}`, label: item.name }))}
-        categories={categories.map((item) => ({ href: `/products?category=${item.slug}`, label: item.name }))}
+        officeMap={company.map_office_url || `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(company.head_office_address)}`}
+        divisions={divisions
+          .filter((item) => item.show_in_navigation !== false)
+          .map((item) => ({ href: `/businesses/${item.slug}`, label: item.name, note: item.summary, image: item.hero_image, slug: item.slug }))}
+        categories={categories.map((item) => ({ href: `/products?category=${item.slug}`, label: item.name, slug: item.slug }))}
       />
       <main id="content">{children}</main>
       <Footer company={company} divisions={divisions} />

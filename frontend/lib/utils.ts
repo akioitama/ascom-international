@@ -1,5 +1,14 @@
 import { clsx, type ClassValue } from "clsx";
-import { twMerge } from "tailwind-merge";
+import { extendTailwindMerge } from "tailwind-merge";
+
+const twMerge = extendTailwindMerge({
+  extend: {
+    classGroups: {
+      "font-size": [{ text: ["display", "headline", "title", "lead"] }],
+      "bg-image": [{ bg: ["blueprint", "blueprint-ink"] }],
+    },
+  },
+});
 
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
@@ -22,6 +31,16 @@ export function mediaUrl(path?: string | null) {
   const base = process.env.NEXT_PUBLIC_UPLOADS_URL?.trim().replace(/\/$/, "");
   const normalized = path.startsWith("/") ? path : `/${path}`;
   return base ? `${base}${normalized}` : normalized;
+}
+
+export function pad(value: number) {
+  return String(value).padStart(2, "0");
+}
+
+const numberWords = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve"];
+
+export function numberWord(value: number) {
+  return numberWords[value] ?? String(value);
 }
 
 export function paragraphs(value?: string | null) {

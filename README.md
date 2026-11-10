@@ -36,6 +36,12 @@ Project photographs and the logo were copied from https://ascomintl.com/. Two at
 - Technology: photo `1558494949-ef010cbdcc31`
 - Road: photo `1465447142348-e9952c393450`
 
+Items without a photograph show a drawn placeholder with an icon. To replace one, put the file in `frontend/public/media` and set `hero_image` (products) or `image` (industries) in `frontend/content/site.json`. Photographs still needed, landscape 4:3 and at least 1600 px wide:
+
+- 26 catalogue items: road safety products, signage, creative services and technology
+- The Agriculture and Energy and power industries
+- ASCOM's own photography for Technology Solutions, Road Safety and Automotive, which use labelled atmospheric images
+
 Refresh the local copies with `python scripts/fetch_media.py` if those files are missing. The script expects the logo downloads already saved under `research-raw/logos` from the research pass, or you can place the logo and organisation marks in `frontend/public/media` yourself.
 
 ## Documents

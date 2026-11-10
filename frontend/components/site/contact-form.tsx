@@ -1,6 +1,7 @@
 "use client";
 
 import { zodResolver } from "@hookform/resolvers/zod";
+import { ArrowRight } from "lucide-react";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 
@@ -37,6 +38,7 @@ export function ContactForm({ category = "General", subject = "", email = "info@
     resolver: zodResolver(schema),
     defaultValues: { full_name: "", company: "", email: "", phone: "", country: "Pakistan", category, subject, message: "" },
   });
+  const errors = form.formState.errors;
 
   function onSubmit(values: Values) {
     const body = [
@@ -53,26 +55,28 @@ export function ContactForm({ category = "General", subject = "", email = "info@
   }
 
   return (
-    <form className="grid gap-4" onSubmit={form.handleSubmit(onSubmit)} noValidate>
-      <Field label="Full name" error={form.formState.errors.full_name?.message}>
-        <input className="field" {...form.register("full_name")} />
-      </Field>
-      <Field label="Company" error={form.formState.errors.company?.message}>
-        <input className="field" {...form.register("company")} />
-      </Field>
-      <div className="grid gap-4 sm:grid-cols-2">
-        <Field label="Email" error={form.formState.errors.email?.message}>
-          <input className="field" type="email" {...form.register("email")} />
+    <form className="grid gap-x-8 gap-y-7" onSubmit={form.handleSubmit(onSubmit)} noValidate>
+      <div className="grid gap-x-8 gap-y-7 sm:grid-cols-2">
+        <Field label="Full name" required error={errors.full_name?.message}>
+          <input className="field" autoComplete="name" {...form.register("full_name")} />
         </Field>
-        <Field label="Phone" error={form.formState.errors.phone?.message}>
-          <input className="field" {...form.register("phone")} />
+        <Field label="Company" error={errors.company?.message}>
+          <input className="field" autoComplete="organization" {...form.register("company")} />
         </Field>
       </div>
-      <div className="grid gap-4 sm:grid-cols-2">
-        <Field label="Country" error={form.formState.errors.country?.message}>
-          <input className="field" {...form.register("country")} />
+      <div className="grid gap-x-8 gap-y-7 sm:grid-cols-2">
+        <Field label="Email" required error={errors.email?.message}>
+          <input className="field" type="email" autoComplete="email" {...form.register("email")} />
         </Field>
-        <Field label="Inquiry category" error={form.formState.errors.category?.message}>
+        <Field label="Phone" required error={errors.phone?.message}>
+          <input className="field" type="tel" autoComplete="tel" {...form.register("phone")} />
+        </Field>
+      </div>
+      <div className="grid gap-x-8 gap-y-7 sm:grid-cols-2">
+        <Field label="Country" required error={errors.country?.message}>
+          <input className="field" autoComplete="country-name" {...form.register("country")} />
+        </Field>
+        <Field label="Inquiry category" required error={errors.category?.message}>
           <select className="field" {...form.register("category")}>
             {CATEGORIES.map((item) => (
               <option key={item}>{item}</option>
@@ -80,26 +84,32 @@ export function ContactForm({ category = "General", subject = "", email = "info@
           </select>
         </Field>
       </div>
-      <Field label="Subject" error={form.formState.errors.subject?.message}>
+      <Field label="Subject" required error={errors.subject?.message}>
         <input className="field" {...form.register("subject")} />
       </Field>
-      <Field label="Message" error={form.formState.errors.message?.message}>
-        <textarea className="field min-h-36" {...form.register("message")} />
+      <Field label="Message" required error={errors.message?.message}>
+        <textarea className="field min-h-40 resize-y" {...form.register("message")} />
       </Field>
-      <p className="text-sm text-muted">This opens your email program. Nothing is saved on the website.</p>
-      <button className="bg-blue px-5 py-3 text-sm font-semibold text-white" type="submit">
-        Email the team
-      </button>
+      <div className="flex flex-col-reverse gap-5 border-t border-line pt-8 sm:flex-row sm:items-center sm:justify-between">
+        <p className="max-w-xs text-sm leading-6 text-muted">This opens your email program. Nothing is saved on the website.</p>
+        <button className="group/button inline-flex h-14 items-center justify-center gap-3 bg-navy px-7 text-sm font-medium text-white transition-colors duration-300 hover:bg-blue" type="submit">
+          Email the team
+          <ArrowRight className="h-4 w-4 transition-transform duration-500 ease-out-expo group-hover/button:translate-x-1" strokeWidth={1.75} aria-hidden />
+        </button>
+      </div>
     </form>
   );
 }
 
-function Field({ label, error, children }: { label: string; error?: string; children: React.ReactNode }) {
+function Field({ label, error, required = false, children }: { label: string; error?: string; required?: boolean; children: React.ReactNode }) {
   return (
-    <label className="grid gap-1 text-sm">
-      <span className="font-medium">{label}</span>
+    <label className="grid content-start gap-1">
+      <span className="eyebrow text-muted">
+        {label}
+        {required ? <span className="text-blue"> *</span> : null}
+      </span>
       {children}
-      {error ? <span className="text-red-700">{error}</span> : null}
+      {error ? <span className="pt-1 text-sm text-red-700">{error}</span> : null}
     </label>
   );
 }
