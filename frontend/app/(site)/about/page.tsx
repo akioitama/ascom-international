@@ -156,7 +156,7 @@ export default function AboutPage() {
           <Reveal className="lg:col-span-6 lg:col-start-7" delay={0.1}>
             <Photo
               src="/media/projects/water-trailer/04.jpg"
-              alt="Tank fabrication for the water trailer project, from ASCOM's published project photographs."
+              alt="Tank fabrication for the water trailer project."
               frame
               sizes="(min-width: 1024px) 45vw, 100vw"
               className="aspect-[4/3]"

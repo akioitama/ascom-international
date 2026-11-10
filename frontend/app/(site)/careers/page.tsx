@@ -27,7 +27,7 @@ export default function CareersPage() {
             Work with <span className="text-ink/50">the ASCOM team.</span>
           </>
         }
-        text="ASCOM says its strength is its people, and it recruits against the same values published on the about page. Signage media work is dated from 2018. There is no open vacancy on the current website."
+        text="ASCOM's strength is its people, and the company recruits against the same values it works by. There is no open vacancy at the moment, but CVs are always welcome."
         crumbs={[{ href: "/", label: "Home" }, { label: "Careers" }]}
         facts={[
           { label: "Open vacancies", value: pad(jobs.length) },

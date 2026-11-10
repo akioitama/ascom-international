@@ -15,7 +15,7 @@ export default function NotFound() {
           <h1 className="mt-6 text-display font-medium">
             That page is <span className="text-white/45">not available.</span>
           </h1>
-          <p className="mt-7 max-w-md text-lead text-white/65">The address does not match a published page.</p>
+          <p className="mt-7 max-w-md text-lead text-white/65">The address does not match a page on this site.</p>
           <Link href="/" className="group mt-10 inline-flex h-12 items-center gap-3 bg-white px-6 text-[0.8125rem] font-medium text-ink transition-colors hover:bg-paper">
             <ArrowLeft className="h-4 w-4 transition-transform duration-500 ease-out-expo group-hover:-translate-x-1" strokeWidth={1.75} aria-hidden />
             Back to the homepage

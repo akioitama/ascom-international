@@ -12,7 +12,7 @@ import { pad } from "@/lib/utils";
 
 export const metadata: Metadata = {
   title: "Products & Solutions",
-  description: "Catalogue of vehicles, road safety products, signage and technology categories published by ASCOM International.",
+  description: "Catalogue of vehicles, road safety products, signage and technology from ASCOM International.",
   alternates: { canonical: "/products" },
 };
 
@@ -58,7 +58,7 @@ export default async function ProductsPage({ searchParams }: { searchParams: Pro
             Products <span className="text-ink/50">&amp; solutions</span>
           </>
         }
-        text="Every item below is named on the current ASCOM website. Specifications appear only where the source published them."
+        text="Vehicles, equipment, road safety products, signage and technology, grouped by business. Ask the team for specifications and quantities."
         crumbs={[{ href: "/", label: "Home" }, { label: "Products & Solutions" }]}
         facts={[
           { label: "Items", value: pad(all.length) },

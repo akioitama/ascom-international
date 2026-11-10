@@ -9,7 +9,7 @@ import { getResources } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Resources",
-  description: "Documents and the code of conduct published by ASCOM International.",
+  description: "Documents and the code of conduct from ASCOM International.",
   alternates: { canonical: "/resources" },
 };
 
@@ -29,7 +29,7 @@ export default async function ResourcesPage({ searchParams }: { searchParams: Pr
             Resource <span className="text-ink/50">centre.</span>
           </>
         }
-        text="Files appear here only when they have been uploaded. The code of conduct is the document currently published in full."
+        text="Company documents and policies. The code of conduct is available to read in full."
         crumbs={[{ href: "/", label: "Home" }, { label: "Resources" }]}
       />
       <section className="bg-foam">

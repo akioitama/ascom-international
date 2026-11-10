@@ -50,7 +50,7 @@ export default async function DivisionPage({ params }: { params: Promise<Params>
         crumbs={[{ href: "/", label: "Home" }, { href: "/businesses", label: "Businesses" }, { label: division.name }]}
         facts={[
           { label: "Services listed", value: pad(offerings.length) },
-          { label: "Published projects", value: pad(projects.length) },
+          { label: "Projects", value: pad(projects.length) },
           { label: "Catalogue items", value: pad(products.length) },
           { label: "Photograph", value: division.hero_is_company_photo ? "ASCOM project photography" : "Atmospheric photograph" },
         ]}
@@ -106,7 +106,7 @@ export default async function DivisionPage({ params }: { params: Promise<Params>
         <section className="bg-paper">
           <div className="shell py-24 lg:py-32">
             <Reveal>
-              <SectionHeading index="03" label="Related projects" title="Published work" action={{ href: `/projects?division=${division.slug}`, label: "All related projects" }} />
+              <SectionHeading index="03" label="Related projects" title="Related work" action={{ href: `/projects?division=${division.slug}`, label: "All related projects" }} />
             </Reveal>
             <div className="mt-16 grid gap-x-6 gap-y-14 md:grid-cols-2 lg:mt-20">
               {projects.map((project, index) => (

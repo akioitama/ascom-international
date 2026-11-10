@@ -151,7 +151,7 @@ export default async function ProductPage({ params }: { params: Promise<Params> 
                 </dd>
               </div>
               <div className="border-b border-l border-line py-4 pl-4">
-                <dt className="eyebrow text-muted">{projects.length > 0 ? "Published projects" : "Category"}</dt>
+                <dt className="eyebrow text-muted">{projects.length > 0 ? "Projects" : "Category"}</dt>
                 <dd className="mt-1.5 text-[0.95rem]">
                   {projects.length > 0 ? (
                     pad(projects.length)

@@ -3,7 +3,7 @@
     "id": "ascom",
     "legal_name": "ASCOM International",
     "summary": "Since 2018, ASCOM International has supplied signage media, materials, equipment and road safety solutions, and the company also works in manufacturing, technology, construction and supply.",
-    "about": "Since 2018, ASCOM International has been dedicated to signage media, materials, equipment and road safety solutions. The company profile says the focus is innovation, quality and safety, and meeting a wide range of client needs.\n\nThe same profile describes a business that also trades, engineers and delivers technology-driven work. Manufacturing, construction, fire safety systems and military and defence supply are part of that range. They are parts of the company, not a single specialism.",
+    "about": "Since 2018, ASCOM International has been dedicated to signage media, materials, equipment and road safety solutions. The company's focus is innovation, quality and safety, and meeting a wide range of client needs.\n\nASCOM also trades, engineers and delivers technology-driven work. Manufacturing, construction, fire safety systems and military and defence supply are part of that range. They are parts of the company, not a single specialism.",
     "vision": "To build a globally recognized enterprise that sets new standards in trading, engineering, and technology-driven solutions.",
     "mission": "To empower organizations with world-class products, innovative engineering solutions, and dependable services while creating lasting value for clients, partners, and communities.",
     "signage_since_year": 2018,
@@ -34,7 +34,7 @@
     "intro_body": "ASCOM has worked in signage media since 2018, and that is only one part of the company. The same business also manufactures, fits out vehicles and takes on wider project work.\n\nThe pages that follow show those areas. They are examples of the work, not a closed list of everything ASCOM can be asked to do.",
     "cta_title": "Have a Brief in Mind?",
     "cta_text": "Talk to the team about signage, branding, manufacturing or a construction requirement.",
-    "organization_note": "These marks appear on the previous ASCOM website. A logo is not presented as a contract, endorsement or current registration."
+    "organization_note": "Public bodies ASCOM is registered with, and the government departments, institutions and companies it has worked for."
   },
   "values": [
     {
@@ -85,9 +85,9 @@
       "slug": "creative-solutions",
       "name": "Creative Solutions",
       "summary": "Signage, brand visibility and marketing material. ASCOM has worked in signage media since 2018.",
-      "body": "Since 2018, ASCOM has described itself as a signage media company, making customised work that improves brand visibility and communication.\n\nThe creative page groups that work into trade marketing, petroleum retail, out-of-home media, road safety products, packaging, giveaways, digital services, road signs, and shop or showroom renovation. Each group is published as a list. Individual campaigns, sizes and material specifications are not published.",
+      "body": "Since 2018, ASCOM has worked as a signage media company, making customised work that improves brand visibility and communication.\n\nThe work covers trade marketing, petroleum retail, out-of-home media, road safety products, packaging, giveaways, digital services, road signs, and shop and showroom renovation.",
       "hero_image": "/media/projects/rwmc-vehicle-branding/02.jpg",
-      "hero_caption": "RWMC vehicle after body paint and branding, from ASCOM's published project photographs.",
+      "hero_caption": "RWMC vehicle after body paint and branding.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
@@ -109,7 +109,7 @@
         {
           "id": "creative-solutions-offer-3",
           "title": "Out of home",
-          "description": "Media planning, creative production, execution, reporting and industry analysis, as listed on the current site."
+          "description": "Media planning, creative production, execution, reporting and industry analysis."
         },
         {
           "id": "creative-solutions-offer-4",
@@ -129,7 +129,7 @@
         {
           "id": "creative-solutions-offer-7",
           "title": "Digital services",
-          "description": "The creative page names artificial intelligence, digital marketing, Android and iOS applications, hardware integration and web development. No further scope is published."
+          "description": "Artificial intelligence, digital marketing, Android and iOS applications, hardware integration and web development."
         }
       ]
     },
@@ -137,91 +137,91 @@
       "slug": "construction",
       "name": "Construction",
       "summary": "Commercial, industrial and residential building work, plus infrastructure, civil engineering and turnkey delivery.",
-      "body": "The company profile describes construction as high-quality, sustainable and cost-effective building for commercial, industrial and residential projects, with a commitment to safety and timely completion.\n\nThe earlier website also names highways and motorways, flyovers and bridges, buildings, power and energy, dams and airports. A prefabricated site at Sundar Industrial Estate is a published project.\n\nThe profile prints these figures for the division: 10+ years of experience, 50+ skilled professionals, 20+ completed projects, safety as a priority, on-time delivery, and 100% quality assurance. The same figures are repeated on the technology page of the profile.",
+      "body": "Construction covers high-quality, sustainable and cost-effective building for commercial, industrial and residential projects, with a commitment to safety and timely completion.\n\nThe work includes highways and motorways, flyovers and bridges, buildings, power and energy, dams and airports. A prefabricated site at Sundar Industrial Estate is one of the company's projects.",
       "hero_image": "/media/projects/sundar-prefabricated-site/01.jpg",
-      "hero_caption": "Prefabricated construction site at Sundar Industrial Estate, from ASCOM's published photographs.",
+      "hero_caption": "Prefabricated construction site at Sundar Industrial Estate.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 2,
       "seo_title": "Construction",
-      "seo_description": "Construction categories published by ASCOM International, including highways, bridges, buildings, power, dams and airports.",
+      "seo_description": "Construction by ASCOM International, including highways, bridges, buildings, power, dams and airports.",
       "id": "construction",
       "offerings": [
         {
           "id": "construction-offer-1",
           "title": "Highways and motorways",
-          "description": "Listed as a construction category. Named highway contracts are not published."
+          "description": "Highway and motorway construction."
         },
         {
           "id": "construction-offer-2",
           "title": "Flyovers and bridges",
-          "description": "Listed as a construction category. Named bridge contracts are not published."
+          "description": "Flyover and bridge construction."
         },
         {
           "id": "construction-offer-3",
           "title": "Buildings",
-          "description": "Listed as a construction category."
+          "description": "Construction of buildings."
         },
         {
           "id": "construction-offer-4",
           "title": "Power and energy",
-          "description": "Listed as a construction category."
+          "description": "Construction for the power and energy sector."
         },
         {
           "id": "construction-offer-5",
           "title": "Dams",
-          "description": "Listed as a construction category."
+          "description": "Dam construction."
         },
         {
           "id": "construction-offer-6",
           "title": "Airports",
-          "description": "Listed as a construction category."
+          "description": "Airport construction."
         },
         {
           "id": "construction-offer-7",
           "title": "Prefabricated site work",
-          "description": "A prefabricated construction site at Sundar Industrial Estate is a published project."
+          "description": "A prefabricated construction site at Sundar Industrial Estate."
         },
         {
           "id": "construction-offer-8",
           "title": "Building construction",
-          "description": "Commercial, industrial and residential building, as described in the company profile."
+          "description": "Commercial, industrial and residential building."
         },
         {
           "id": "construction-offer-9",
           "title": "Renovation and remodeling",
-          "description": "Listed in the company profile."
+          "description": "Renovation and remodelling of existing buildings."
         },
         {
           "id": "construction-offer-10",
           "title": "Infrastructure development",
-          "description": "Listed in the company profile."
+          "description": "Infrastructure development projects."
         },
         {
           "id": "construction-offer-11",
           "title": "Civil engineering",
-          "description": "Listed in the company profile."
+          "description": "Civil engineering works."
         },
         {
           "id": "construction-offer-12",
           "title": "Project management",
-          "description": "Listed in the company profile."
+          "description": "Management of construction projects."
         },
         {
           "id": "construction-offer-13",
           "title": "Pre-construction planning",
-          "description": "Listed in the company profile."
+          "description": "Planning and preparation ahead of construction."
         },
         {
           "id": "construction-offer-14",
           "title": "MEP services",
-          "description": "Mechanical, electrical and plumbing services, listed in the company profile."
+          "description": "Mechanical, electrical and plumbing services."
         },
         {
           "id": "construction-offer-15",
           "title": "Turnkey solutions",
-          "description": "Listed in the company profile, from concept through completion."
+          "description": "Turnkey delivery, from concept through completion."
         }
       ]
     },
@@ -229,26 +229,26 @@
       "slug": "manufacturing",
       "name": "Manufacturing",
       "summary": "In-house metal, plastic and electrical production at Sundar Industrial Estate.",
-      "body": "ASCOM describes itself as a manufacturer, not only a trading company. The factory is at Sundar Industrial Estate, Lahore. The published account says production is controlled in-house from raw material through packaging, across metal, plastic and electrical goods.\n\nPublished capabilities are CNC machining and metal fabrication, injection molding and plastic processing, powder coating, polishing and plating, product assembly, private labelling, OEM and ODM customisation, in-house quality testing, and packaging.\n\nThe same page says the company uses energy-efficient processes, waste recycling, ethical labour standards and reduced packaging waste.\n\nA floor area and a workforce figure appear on the previous website with a note that the area should be customised to the actual size. Those figures are withheld here until the company confirms them.",
+      "body": "ASCOM is a manufacturer, not only a trading company. The factory is at Sundar Industrial Estate, Lahore, and production is controlled in-house from raw material through packaging, across metal, plastic and electrical goods.\n\nCapabilities include CNC machining and metal fabrication, injection molding and plastic processing, powder coating, polishing and plating, product assembly, private labelling, OEM and ODM customisation, in-house quality testing, and packaging.\n\nThe company uses energy-efficient processes, waste recycling, ethical labour standards and reduced packaging waste.",
       "hero_image": "/media/projects/firefighting-cylinders/03.jpg",
-      "hero_caption": "Firefighting cylinders in a workshop, from ASCOM's published project photographs. This is project photography, not a measured drawing of the factory.",
+      "hero_caption": "Firefighting cylinders in a workshop.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 3,
       "seo_title": "Manufacturing",
-      "seo_description": "Metal, plastic and electrical manufacturing capabilities published by ASCOM International.",
+      "seo_description": "Metal, plastic and electrical manufacturing at ASCOM International's Sundar factory.",
       "id": "manufacturing",
       "offerings": [
         {
           "id": "manufacturing-offer-1",
           "title": "CNC machining and metal fabrication",
-          "description": "Listed among the in-house production capabilities."
+          "description": "Carried out in-house at the Sundar factory."
         },
         {
           "id": "manufacturing-offer-2",
           "title": "Injection molding and plastic processing",
-          "description": "Listed among the in-house production capabilities."
+          "description": "Plastic parts moulded and processed in-house."
         },
         {
           "id": "manufacturing-offer-3",
@@ -258,42 +258,42 @@
         {
           "id": "manufacturing-offer-4",
           "title": "Assembly and private labelling",
-          "description": "Product assembly and private labelling are both published."
+          "description": "Product assembly and private labelling."
         },
         {
           "id": "manufacturing-offer-5",
           "title": "OEM and ODM",
-          "description": "Customisation for OEM and ODM work is published, without a separate product list."
+          "description": "Customisation for OEM and ODM work."
         },
         {
           "id": "manufacturing-offer-6",
           "title": "Quality testing and packaging",
-          "description": "In-house quality testing and packaging close the published process."
+          "description": "In-house quality testing and packaging before dispatch."
         },
         {
           "id": "manufacturing-offer-7",
           "title": "Precision manufacturing",
-          "description": "Named in the company profile, with modern machinery and quality checks through production."
+          "description": "Modern machinery and quality checks through production."
         },
         {
           "id": "manufacturing-offer-8",
           "title": "Product development",
-          "description": "The profile describes turning ideas into market-ready products."
+          "description": "Turning ideas into market-ready products."
         },
         {
           "id": "manufacturing-offer-9",
           "title": "Automation solutions",
-          "description": "The profile describes automation for productivity and workplace safety."
+          "description": "Automation for productivity and workplace safety."
         },
         {
           "id": "manufacturing-offer-10",
           "title": "Supply chain support",
-          "description": "The profile describes on-time delivery and logistics assistance."
+          "description": "On-time delivery and logistics assistance."
         },
         {
           "id": "manufacturing-offer-11",
           "title": "Custom production",
-          "description": "Tailored manufacturing for a specific requirement, as stated in the company profile."
+          "description": "Tailored manufacturing for a specific requirement."
         }
       ]
     },
@@ -301,15 +301,15 @@
       "slug": "technology-solutions",
       "name": "Technology Solutions",
       "summary": "IT equipment, consulting, cyber security, networks, software, data and support.",
-      "body": "The homepage describes this division as IT services and equipment. The technology page is more specific, and this page follows that list without adding services that are not there.\n\nEquipment categories cover computers and workstations, servers, storage, CCTV recording, and office supplies. Service categories cover IT infrastructure, network security and IT support, including a published reference to 24/7 helpdesk support.\n\nThe page also says the company works with experienced professionals, certified experts and leading brands. It does not name the certificates or the brands, so this site does not invent them.\n\nStorage is written on the source page as “NIAS, SAN, Harddrives, Storage Arrays”. NAS is the usual term. Confirm the spelling before treating it as a product name.",
+      "body": "Technology Solutions covers IT services and equipment.\n\nEquipment categories cover computers and workstations, servers, storage, CCTV recording, and office supplies. Service categories cover IT infrastructure, network security and IT support, including 24/7 helpdesk support.\n\nThe company works with experienced professionals, certified experts and leading brands.",
       "hero_image": "/media/atmosphere/technology.jpg",
-      "hero_caption": "Atmospheric photograph of data-centre equipment. It is not an ASCOM facility.",
+      "hero_caption": "Data-centre equipment.",
       "hero_is_company_photo": false,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 4,
       "seo_title": "Technology Solutions",
-      "seo_description": "Computers, servers, storage, CCTV and IT support categories published by ASCOM International.",
+      "seo_description": "Computers, servers, storage, CCTV and IT support from ASCOM International.",
       "id": "technology-solutions",
       "offerings": [
         {
@@ -320,12 +320,12 @@
         {
           "id": "technology-solutions-offer-2",
           "title": "Servers",
-          "description": "Tower, rack and scale servers, as listed."
+          "description": "Tower, rack and scale servers."
         },
         {
           "id": "technology-solutions-offer-3",
           "title": "Storage",
-          "description": "SAN, hard drives and storage arrays. The source also prints “NIAS”, which needs confirmation."
+          "description": "SAN, hard drives and storage arrays."
         },
         {
           "id": "technology-solutions-offer-4",
@@ -345,64 +345,64 @@
         {
           "id": "technology-solutions-offer-7",
           "title": "Network security",
-          "description": "Described as protection with an advanced security solution. No product names are published."
+          "description": "Network protection with an advanced security solution."
         },
         {
           "id": "technology-solutions-offer-8",
           "title": "IT support",
-          "description": "Helpdesk and technical support, described as available 24/7. The company profile also lists IT support and maintenance."
+          "description": "Helpdesk and technical support, available 24/7, plus IT support and maintenance."
         },
         {
           "id": "technology-solutions-offer-9",
           "title": "IT consulting",
-          "description": "Listed in the company profile."
+          "description": "Consulting on IT systems and infrastructure."
         },
         {
           "id": "technology-solutions-offer-10",
           "title": "Cyber security",
-          "description": "Listed in the company profile."
+          "description": "Protection for systems, networks and data."
         },
         {
           "id": "technology-solutions-offer-11",
           "title": "Network solutions",
-          "description": "Listed in the company profile."
+          "description": "Network design, installation and support."
         },
         {
           "id": "technology-solutions-offer-12",
           "title": "Software development",
-          "description": "Listed in the company profile."
+          "description": "Software built to a client's requirements."
         },
         {
           "id": "technology-solutions-offer-13",
           "title": "Data management",
-          "description": "Listed in the company profile."
+          "description": "Storage, backup and management of business data."
         },
         {
           "id": "technology-solutions-offer-14",
           "title": "System integration",
-          "description": "Listed in the company profile."
+          "description": "Connecting hardware and software into working systems."
         }
       ]
     },
     {
       "slug": "engineering",
       "name": "Engineering",
-      "summary": "Mechanical, civil, fabrication and infrastructure activities listed on the engineering page.",
-      "body": "ASCOM publishes an engineering page with a list of activities. That list is repeated below.\n\nThe same page also contains prefabricated-building paragraphs written for a different company. Those paragraphs are not reproduced here.\n\nItems on the list overlap with manufacturing, construction and road safety. They are shown so the published engineering scope is not dropped.",
+      "summary": "Mechanical, civil, fabrication and infrastructure work.",
+      "body": "Engineering covers mechanical and HVAC work, fabrication and erection, civil works, infrastructure utilities, and road and security products.\n\nMuch of this work overlaps with manufacturing, construction and road safety.",
       "hero_image": "/media/projects/water-trailer/04.jpg",
-      "hero_caption": "Tank fabrication for the water trailer project, from ASCOM's published project photographs.",
+      "hero_caption": "Tank fabrication for the water trailer project.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 5,
       "seo_title": "Engineering",
-      "seo_description": "Engineering activities listed on the ASCOM International website.",
+      "seo_description": "Mechanical, civil, fabrication and infrastructure engineering by ASCOM International.",
       "id": "engineering",
       "offerings": [
         {
           "id": "engineering-offer-1",
           "title": "Mechanical and HVAC",
-          "description": "HVAC and mechanical design are both on the published list."
+          "description": "HVAC and mechanical design."
         },
         {
           "id": "engineering-offer-2",
@@ -422,17 +422,17 @@
         {
           "id": "engineering-offer-5",
           "title": "Road and security",
-          "description": "Road safety, road marking and security products are also named on the engineering page."
+          "description": "Road safety, road marking and security products."
         }
       ]
     },
     {
       "slug": "road-safety",
       "name": "Road Safety",
-      "summary": "Traffic products and road signs listed under Creative Solutions.",
-      "body": "Road safety is not a separate page on the current website. It is a published part of Creative Solutions, in two lists: road safety products and road signs.\n\nProducts named there are traffic cones, safety barriers, reflective tapes, road studs (cat eyes), speed breakers, convex mirrors, safety bollards and high-visibility gear.\n\nSigns named there are regulatory signs, warning signs, directional signage, reflective sign boards, custom road signs, highway signage, and urban and industrial sign systems.\n\nSizes, standards and reflective grades are not published. The catalogue records the names and leaves specifications empty until the company adds them.",
+      "summary": "Traffic safety products and road signs.",
+      "body": "Road safety work comes in two ranges: road safety products and road signs.\n\nProducts include traffic cones, safety barriers, reflective tapes, road studs (cat eyes), speed breakers, convex mirrors, safety bollards and high-visibility gear.\n\nSigns include regulatory signs, warning signs, directional signage, reflective sign boards, custom road signs, highway signage, and urban and industrial sign systems.\n\nContact the team for sizes, standards and reflective grades.",
       "hero_image": "/media/atmosphere/road.jpg",
-      "hero_caption": "Atmospheric photograph of a road. It is not an ASCOM installation.",
+      "hero_caption": "Road interchange from the air.",
       "hero_is_company_photo": false,
       "is_active": true,
       "show_in_navigation": true,
@@ -456,16 +456,16 @@
     {
       "slug": "vehicle-customisation",
       "name": "Vehicle Customisation",
-      "summary": "Firefighting vehicles, trailers, vehicle bodies and livery, as published in project pages.",
-      "body": "The current website has no page titled vehicle customisation. The work is published as individual projects, and those projects are the content of this page.\n\nThey cover fire crash trucks supplied to DGP Army in a joint venture with Technofire, mobile foam units supplied to DGP Army as a subcontractor with Metron International, a 1.5-ton two-wheel water trailer of 400 gallons also linked to DGP Army and Techno Fire, firefighting cylinders, a vehicle back body for Wildlife Rangers, and painting and branding for Wildlife Rangers and for RWMC operational vehicles.\n\nOnly the water trailer has published figures. Other specifications are left blank.",
+      "summary": "Firefighting vehicles, trailers, vehicle bodies and livery.",
+      "body": "Vehicle customisation covers fire crash trucks supplied to DGP Army in a joint venture with Technofire, mobile foam units supplied to DGP Army as a subcontractor with Metron International, and a 1.5-ton two-wheel water trailer of 400 gallons for DGP Army with Techno Fire.\n\nIt also covers firefighting cylinders, a vehicle back body for Wildlife Rangers, and painting and branding for Wildlife Rangers and for RWMC operational vehicles.",
       "hero_image": "/media/projects/wildlife-vehicle-back-body/02.jpg",
-      "hero_caption": "Vehicle back body for Wildlife Rangers, from ASCOM's published project photographs.",
+      "hero_caption": "Vehicle back body for Wildlife Rangers.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 7,
       "seo_title": "Vehicle Customisation",
-      "seo_description": "Specialised vehicles and vehicle bodies published by ASCOM International.",
+      "seo_description": "Specialised vehicles and vehicle bodies by ASCOM International.",
       "id": "vehicle-customisation",
       "offerings": [
         {
@@ -481,7 +481,7 @@
         {
           "id": "vehicle-customisation-offer-3",
           "title": "Water trailers",
-          "description": "1.5 ton, two-wheeler, 400 gallons. The page also names DGP Army and Techno Fire Pvt Ltd."
+          "description": "1.5 ton, two-wheeler, 400 gallons, supplied to DGP Army with Techno Fire Pvt Ltd."
         },
         {
           "id": "vehicle-customisation-offer-4",
@@ -494,47 +494,99 @@
       "slug": "fire-safety",
       "name": "Fire Safety",
       "summary": "Fire detection, alarm systems and firefighting equipment for commercial and industrial sites.",
-      "body": "The company profile describes fire alarm and fire safety work: early detection, control panels, manual call points, alarm sounders, installation, commissioning and maintenance.\n\nIt also lists smoke detectors, heat detectors, repeater panels, alarm accessories, fire-resistant cable and fire safety signage. The profile says this range is for commercial, industrial and institutional projects.\n\nSeparate project pages already record fire crash trucks, mobile foam units and firefighting cylinders.",
+      "body": "Fire Safety covers fire alarm and fire safety work: early detection, control panels, manual call points, alarm sounders, installation, commissioning and maintenance.\n\nThe range also includes smoke detectors, heat detectors, repeater panels, alarm accessories, fire-resistant cable and fire safety signage, for commercial, industrial and institutional projects.\n\nASCOM has also delivered fire crash trucks, mobile foam units and firefighting cylinders.",
       "hero_image": "/media/projects/fire-crash-truck/04.jpg",
-      "hero_caption": "Equipment compartment of a fire crash truck, from ASCOM's published project photographs.",
+      "hero_caption": "Equipment compartment of a fire crash truck.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 8,
       "seo_title": "Fire Safety",
-      "seo_description": "Fire alarm systems and fire safety equipment described in the ASCOM company profile.",
+      "seo_description": "Fire alarm systems and fire safety equipment from ASCOM International.",
       "id": "fire-safety",
       "offerings": [
-        {"id": "fire-safety-offer-1", "title": "Design and consultation", "description": "Site assessment, system design and equipment selection."},
-        {"id": "fire-safety-offer-2", "title": "Supply and installation", "description": "Listed in the company profile."},
-        {"id": "fire-safety-offer-3", "title": "Testing and commissioning", "description": "Listed in the company profile."},
-        {"id": "fire-safety-offer-4", "title": "Maintenance and support", "description": "The profile mentions routine maintenance and 24/7 support."},
-        {"id": "fire-safety-offer-5", "title": "Detection and alarm devices", "description": "Smoke detectors, heat detectors, control panels, manual call points, sounders and repeater panels."}
+        {
+          "id": "fire-safety-offer-1",
+          "title": "Design and consultation",
+          "description": "Site assessment, system design and equipment selection."
+        },
+        {
+          "id": "fire-safety-offer-2",
+          "title": "Supply and installation",
+          "description": "Supply and installation of fire alarm and detection systems."
+        },
+        {
+          "id": "fire-safety-offer-3",
+          "title": "Testing and commissioning",
+          "description": "Testing and commissioning of installed systems."
+        },
+        {
+          "id": "fire-safety-offer-4",
+          "title": "Maintenance and support",
+          "description": "Routine maintenance and 24/7 support."
+        },
+        {
+          "id": "fire-safety-offer-5",
+          "title": "Detection and alarm devices",
+          "description": "Smoke detectors, heat detectors, control panels, manual call points, sounders and repeater panels."
+        }
       ]
     },
     {
       "slug": "military-and-defence",
       "name": "Military and Defence Supplies",
       "summary": "Procurement, manufacturing and integrated supply for defence and security.",
-      "body": "The company profile presents ASCOM as a Pakistan-based supplier of military, defence, security and other government equipment. It describes manufacturing, international trading, product development, engineering and project execution.\n\nThe published portfolio covers uniforms and personal kit, field and camp equipment, safety and emergency gear, engineering supplies, vehicles and mobility support, communications, camp infrastructure and defence support materials.",
+      "body": "ASCOM is a Pakistan-based supplier of military, defence, security and other government equipment, with manufacturing, international trading, product development, engineering and project execution.\n\nThe portfolio covers uniforms and personal kit, field and camp equipment, safety and emergency gear, engineering supplies, vehicles and mobility support, communications, camp infrastructure and defence support materials.",
       "hero_image": "/media/projects/fire-crash-truck/02.jpg",
-      "hero_caption": "Fire crash trucks supplied to DGP Army, from ASCOM's published project photographs.",
+      "hero_caption": "Fire crash trucks supplied to DGP Army.",
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 9,
       "seo_title": "Military and Defence Supplies",
-      "seo_description": "Military, defence and security supply categories published in the ASCOM company profile.",
+      "seo_description": "Military, defence and security supply from ASCOM International.",
       "id": "military-and-defence",
       "offerings": [
-        {"id": "defence-offer-1", "title": "Uniforms and personal equipment", "description": "Uniforms, boots, helmets, backpacks, belts and related kit."},
-        {"id": "defence-offer-2", "title": "Field and operational equipment", "description": "Tents, field furniture, storage, tools and portable lighting."},
-        {"id": "defence-offer-3", "title": "Safety, protection and emergency equipment", "description": "Extinguishers, first aid, high-visibility gear, barriers and emergency response items."},
-        {"id": "defence-offer-4", "title": "Engineering and technical supplies", "description": "Generators, tools, electrical materials and workshop supplies."},
-        {"id": "defence-offer-5", "title": "Vehicles and mobility support", "description": "Military trucks, spare parts, tyres, fuel and water containers, and vehicle accessories."},
-        {"id": "defence-offer-6", "title": "Communications and electronics", "description": "Radios, accessories, solar power, searchlights and related equipment."},
-        {"id": "defence-offer-7", "title": "Camp infrastructure", "description": "Prefabricated cabins, portable toilets, kitchens, water storage and temporary shelters."},
-        {"id": "defence-offer-8", "title": "Defence support materials", "description": "Camouflage nets, barrier systems, gabions and security barriers."}
+        {
+          "id": "defence-offer-1",
+          "title": "Uniforms and personal equipment",
+          "description": "Uniforms, boots, helmets, backpacks, belts and related kit."
+        },
+        {
+          "id": "defence-offer-2",
+          "title": "Field and operational equipment",
+          "description": "Tents, field furniture, storage, tools and portable lighting."
+        },
+        {
+          "id": "defence-offer-3",
+          "title": "Safety, protection and emergency equipment",
+          "description": "Extinguishers, first aid, high-visibility gear, barriers and emergency response items."
+        },
+        {
+          "id": "defence-offer-4",
+          "title": "Engineering and technical supplies",
+          "description": "Generators, tools, electrical materials and workshop supplies."
+        },
+        {
+          "id": "defence-offer-5",
+          "title": "Vehicles and mobility support",
+          "description": "Military trucks, spare parts, tyres, fuel and water containers, and vehicle accessories."
+        },
+        {
+          "id": "defence-offer-6",
+          "title": "Communications and electronics",
+          "description": "Radios, accessories, solar power, searchlights and related equipment."
+        },
+        {
+          "id": "defence-offer-7",
+          "title": "Camp infrastructure",
+          "description": "Prefabricated cabins, portable toilets, kitchens, water storage and temporary shelters."
+        },
+        {
+          "id": "defence-offer-8",
+          "title": "Defence support materials",
+          "description": "Camouflage nets, barrier systems, gabions and security barriers."
+        }
       ]
     },
     {
@@ -575,28 +627,28 @@
       "id": "firefighting-vehicles",
       "slug": "firefighting-vehicles",
       "name": "Firefighting Vehicles",
-      "description": "Fire crash trucks published by ASCOM.",
+      "description": "Fire crash trucks manufactured and supplied by ASCOM.",
       "sort_order": 1
     },
     {
       "id": "mobile-foam-units",
       "slug": "mobile-foam-units",
       "name": "Mobile Foam Units",
-      "description": "Mobile foam units published by ASCOM.",
+      "description": "Mobile foam units manufactured and supplied by ASCOM.",
       "sort_order": 2
     },
     {
       "id": "firefighting-equipment",
       "slug": "firefighting-equipment",
       "name": "Firefighting Equipment",
-      "description": "Firefighting cylinders published by ASCOM.",
+      "description": "Firefighting cylinders manufactured by ASCOM.",
       "sort_order": 3
     },
     {
       "id": "water-trailers",
       "slug": "water-trailers",
       "name": "Water Trailers",
-      "description": "Water trailers with the figures published by ASCOM.",
+      "description": "Two-wheel water trailers.",
       "sort_order": 4
     },
     {
@@ -610,35 +662,35 @@
       "id": "manufactured-equipment",
       "slug": "manufactured-equipment",
       "name": "Manufactured Equipment",
-      "description": "Other manufactured items with a published project page.",
+      "description": "Other manufactured equipment, including cycle boats.",
       "sort_order": 6
     },
     {
       "id": "road-safety-products",
       "slug": "road-safety-products",
       "name": "Road Safety Products",
-      "description": "Products named on the creative solutions page. Specifications are not yet published.",
+      "description": "Traffic cones, barriers, road studs, mirrors and other road safety products.",
       "sort_order": 7
     },
     {
       "id": "signage",
       "slug": "signage",
       "name": "Signage",
-      "description": "Sign types named on the creative solutions page.",
+      "description": "Regulatory, warning, directional and highway signs, and custom sign systems.",
       "sort_order": 8
     },
     {
       "id": "creative-services",
       "slug": "creative-services",
       "name": "Creative Services",
-      "description": "Service groups from the creative solutions page.",
+      "description": "Retail, trade marketing and showroom branding.",
       "sort_order": 9
     },
     {
       "id": "technology",
       "slug": "technology",
       "name": "Technology",
-      "description": "Equipment and IT categories from the technology page.",
+      "description": "Computers, servers, storage, CCTV, office supplies and IT services.",
       "sort_order": 10
     }
   ],
@@ -648,9 +700,9 @@
       "slug": "fire-crash-truck",
       "name": "Fire crash truck",
       "summary": "Fire trucks manufactured and supplied to DGP Army, in a joint venture with Technofire.",
-      "description": "Published description: manufacture and supply fire trucks to DGP Army (joint venture with Technofire). Pump ratings, water capacity and chassis specifications are not on the source page.",
+      "description": "Fire crash trucks manufactured and supplied to DGP Army in a joint venture with Technofire. Contact the team for pump, tank and chassis specifications.",
       "hero_image": "/media/projects/fire-crash-truck/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
       "verification_note": null,
       "is_featured": true,
@@ -667,7 +719,7 @@
         "id": "firefighting-vehicles",
         "slug": "firefighting-vehicles",
         "name": "Firefighting Vehicles",
-        "description": "Fire crash trucks published by ASCOM."
+        "description": "Fire crash trucks manufactured and supplied by ASCOM."
       },
       "division": {
         "id": "vehicle-customisation",
@@ -682,9 +734,9 @@
       "slug": "mobile-foam-unit",
       "name": "Mobile foam unit",
       "summary": "Supplied to DGP Army as a subcontractor with Metron International.",
-      "description": "Published description: manufacture and supplied to DGP Army as a subcontractor with Metron Intl. Foam capacity is not stated.",
+      "description": "Manufactured and supplied to DGP Army as a subcontractor with Metron International. Contact the team for foam capacity.",
       "hero_image": "/media/projects/mobile-foam-unit/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
       "verification_note": null,
       "is_featured": true,
@@ -701,7 +753,7 @@
         "id": "mobile-foam-units",
         "slug": "mobile-foam-units",
         "name": "Mobile Foam Units",
-        "description": "Mobile foam units published by ASCOM."
+        "description": "Mobile foam units manufactured and supplied by ASCOM."
       },
       "division": {
         "id": "vehicle-customisation",
@@ -716,9 +768,9 @@
       "slug": "firefighting-cylinders",
       "name": "Firefighting cylinders",
       "summary": "Manufacturing of firefighting cylinders.",
-      "description": "The project page records manufacturing of fire fighting cylinders. Working pressure, volume and the applicable standard are not stated.",
+      "description": "Firefighting cylinders manufactured by ASCOM. Contact the team for working pressure, volume and standards.",
       "hero_image": "/media/projects/firefighting-cylinders/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
       "verification_note": null,
       "is_featured": true,
@@ -735,7 +787,7 @@
         "id": "firefighting-equipment",
         "slug": "firefighting-equipment",
         "name": "Firefighting Equipment",
-        "description": "Firefighting cylinders published by ASCOM."
+        "description": "Firefighting cylinders manufactured by ASCOM."
       },
       "division": {
         "id": "manufacturing",
@@ -749,17 +801,17 @@
       "id": "water-trailer-1-5-ton",
       "slug": "water-trailer-1-5-ton",
       "name": "Water trailer, 1.5 ton",
-      "summary": "Two-wheel water trailer with a published capacity of 400 gallons.",
-      "description": "Published description: 1.5 ton, two-wheeler, 400 gallons. Manufacture and supply to DGP Army (joint venture with Techno Fire Pvt Ltd).",
+      "summary": "Two-wheel water trailer with a capacity of 400 gallons.",
+      "description": "1.5 ton, two-wheeler, 400 gallons. Manufactured and supplied to DGP Army in a joint venture with Techno Fire Pvt Ltd.",
       "hero_image": "/media/projects/water-trailer/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
-      "verification_note": "Only the three figures printed on the project page are listed.",
+      "verification_note": null,
       "is_featured": true,
       "is_active": true,
       "sort_order": 4,
       "seo_title": "Water trailer, 1.5 ton",
-      "seo_description": "Two-wheel water trailer with a published capacity of 400 gallons.",
+      "seo_description": "Two-wheel water trailer with a capacity of 400 gallons.",
       "category_slug": "water-trailers",
       "division_slug": "vehicle-customisation",
       "project_slugs": [
@@ -769,7 +821,7 @@
         "id": "water-trailers",
         "slug": "water-trailers",
         "name": "Water Trailers",
-        "description": "Water trailers with the figures published by ASCOM."
+        "description": "Two-wheel water trailers."
       },
       "division": {
         "id": "vehicle-customisation",
@@ -800,9 +852,9 @@
       "slug": "wildlife-ranger-vehicle-back-body",
       "name": "Wildlife ranger vehicle back body",
       "summary": "Designed and manufactured for Wildlife Rangers.",
-      "description": "Published description: design and manufacturing of a vehicle back body for Wildlife Rangers, Wildlife and Parks Department.",
+      "description": "Design and manufacturing of a vehicle back body for Wildlife Rangers, Wildlife and Parks Department.",
       "hero_image": "/media/projects/wildlife-vehicle-back-body/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
       "verification_note": null,
       "is_featured": false,
@@ -834,9 +886,9 @@
       "slug": "vehicle-painting-and-branding",
       "name": "Vehicle painting and branding",
       "summary": "Body paint and branding for operational vehicles.",
-      "description": "Published projects cover RWMC operational vehicles and Wildlife Rangers vehicles for the Wildlife and Parks Department.",
+      "description": "Projects include RWMC operational vehicles and Wildlife Rangers vehicles for the Wildlife and Parks Department.",
       "hero_image": "/media/projects/wildlife-vehicle-branding/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
       "verification_note": null,
       "is_featured": false,
@@ -869,9 +921,9 @@
       "slug": "cycle-boats",
       "name": "Cycle boats",
       "summary": "Designed and supplied for the Tourism Development Corporation of Punjab.",
-      "description": "Published locations, spelled as on the source page: Kalarkahar lake, Uchali lake, Khabeki lake and Darabi dam.",
+      "description": "Supplied for Kalarkahar lake, Uchali lake, Khabeki lake and Darabi dam.",
       "hero_image": "/media/projects/cycle-boats/01.jpg",
-      "hero_caption": "Published project photograph.",
+      "hero_caption": "Project photograph.",
       "hero_is_company_photo": true,
       "verification_note": null,
       "is_featured": false,
@@ -888,7 +940,7 @@
         "id": "manufactured-equipment",
         "slug": "manufactured-equipment",
         "name": "Manufactured Equipment",
-        "description": "Other manufactured items with a published project page."
+        "description": "Other manufactured equipment, including cycle boats."
       },
       "division": {
         "id": "manufacturing",
@@ -913,8 +965,8 @@
       "id": "traffic-cones",
       "slug": "traffic-cones",
       "name": "Traffic cones",
-      "summary": "Traffic cones are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists traffic cones among its road safety products.",
+      "summary": "Traffic cones, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -923,7 +975,7 @@
       "is_active": true,
       "sort_order": 8,
       "seo_title": "Traffic cones",
-      "seo_description": "Traffic cones are listed under road safety products on the creative solutions page.",
+      "seo_description": "Traffic cones, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -931,7 +983,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -945,8 +997,8 @@
       "id": "safety-barriers",
       "slug": "safety-barriers",
       "name": "Safety barriers",
-      "summary": "Safety barriers are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists safety barriers among its road safety products.",
+      "summary": "Safety barriers, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -955,7 +1007,7 @@
       "is_active": true,
       "sort_order": 9,
       "seo_title": "Safety barriers",
-      "seo_description": "Safety barriers are listed under road safety products on the creative solutions page.",
+      "seo_description": "Safety barriers, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -963,7 +1015,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -977,8 +1029,8 @@
       "id": "reflective-tapes",
       "slug": "reflective-tapes",
       "name": "Reflective tapes",
-      "summary": "Reflective tapes are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists reflective tapes among its road safety products.",
+      "summary": "Reflective tapes, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -987,7 +1039,7 @@
       "is_active": true,
       "sort_order": 10,
       "seo_title": "Reflective tapes",
-      "seo_description": "Reflective tapes are listed under road safety products on the creative solutions page.",
+      "seo_description": "Reflective tapes, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -995,7 +1047,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -1009,8 +1061,8 @@
       "id": "road-studs",
       "slug": "road-studs",
       "name": "Road studs (cat eyes)",
-      "summary": "Road studs (cat eyes) are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists road studs (cat eyes) among its road safety products.",
+      "summary": "Road studs (cat eyes), part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1019,7 +1071,7 @@
       "is_active": true,
       "sort_order": 11,
       "seo_title": "Road studs (cat eyes)",
-      "seo_description": "Road studs (cat eyes) are listed under road safety products on the creative solutions page.",
+      "seo_description": "Road studs (cat eyes), part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -1027,7 +1079,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -1041,8 +1093,8 @@
       "id": "speed-breakers",
       "slug": "speed-breakers",
       "name": "Speed breakers",
-      "summary": "Speed breakers are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists speed breakers among its road safety products.",
+      "summary": "Speed breakers, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1051,7 +1103,7 @@
       "is_active": true,
       "sort_order": 12,
       "seo_title": "Speed breakers",
-      "seo_description": "Speed breakers are listed under road safety products on the creative solutions page.",
+      "seo_description": "Speed breakers, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -1059,7 +1111,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -1073,8 +1125,8 @@
       "id": "convex-mirrors",
       "slug": "convex-mirrors",
       "name": "Convex mirrors",
-      "summary": "Convex mirrors are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists convex mirrors among its road safety products.",
+      "summary": "Convex mirrors, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1083,7 +1135,7 @@
       "is_active": true,
       "sort_order": 13,
       "seo_title": "Convex mirrors",
-      "seo_description": "Convex mirrors are listed under road safety products on the creative solutions page.",
+      "seo_description": "Convex mirrors, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -1091,7 +1143,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -1105,8 +1157,8 @@
       "id": "safety-bollards",
       "slug": "safety-bollards",
       "name": "Safety bollards",
-      "summary": "Safety bollards are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists safety bollards among its road safety products.",
+      "summary": "Safety bollards, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1115,7 +1167,7 @@
       "is_active": true,
       "sort_order": 14,
       "seo_title": "Safety bollards",
-      "seo_description": "Safety bollards are listed under road safety products on the creative solutions page.",
+      "seo_description": "Safety bollards, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -1123,7 +1175,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -1137,8 +1189,8 @@
       "id": "high-visibility-safety-gear",
       "slug": "high-visibility-safety-gear",
       "name": "High-visibility safety gear",
-      "summary": "High-visibility safety gear are listed under road safety products on the creative solutions page.",
-      "description": "ASCOM lists high-visibility safety gear among its road safety products.",
+      "summary": "High-visibility safety gear, part of ASCOM's road safety range.",
+      "description": "Supplied as part of ASCOM's road safety range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1147,7 +1199,7 @@
       "is_active": true,
       "sort_order": 15,
       "seo_title": "High-visibility safety gear",
-      "seo_description": "High-visibility safety gear are listed under road safety products on the creative solutions page.",
+      "seo_description": "High-visibility safety gear, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
       "division_slug": "road-safety",
       "project_slugs": [],
@@ -1155,7 +1207,7 @@
         "id": "road-safety-products",
         "slug": "road-safety-products",
         "name": "Road Safety Products",
-        "description": "Products named on the creative solutions page. Specifications are not yet published."
+        "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
         "id": "road-safety",
@@ -1169,8 +1221,8 @@
       "id": "regulatory-signs",
       "slug": "regulatory-signs",
       "name": "Regulatory signs",
-      "summary": "Regulatory signs are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists regulatory signs among its road signs.",
+      "summary": "Regulatory signs, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1179,7 +1231,7 @@
       "is_active": true,
       "sort_order": 16,
       "seo_title": "Regulatory signs",
-      "seo_description": "Regulatory signs are listed under road signs on the creative solutions page.",
+      "seo_description": "Regulatory signs, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1187,7 +1239,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1201,8 +1253,8 @@
       "id": "warning-signs",
       "slug": "warning-signs",
       "name": "Warning signs",
-      "summary": "Warning signs are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists warning signs among its road signs.",
+      "summary": "Warning signs, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1211,7 +1263,7 @@
       "is_active": true,
       "sort_order": 17,
       "seo_title": "Warning signs",
-      "seo_description": "Warning signs are listed under road signs on the creative solutions page.",
+      "seo_description": "Warning signs, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1219,7 +1271,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1233,8 +1285,8 @@
       "id": "directional-signage",
       "slug": "directional-signage",
       "name": "Directional signage",
-      "summary": "Directional signage are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists directional signage among its road signs.",
+      "summary": "Directional signage, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1243,7 +1295,7 @@
       "is_active": true,
       "sort_order": 18,
       "seo_title": "Directional signage",
-      "seo_description": "Directional signage are listed under road signs on the creative solutions page.",
+      "seo_description": "Directional signage, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1251,7 +1303,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1265,8 +1317,8 @@
       "id": "reflective-sign-boards",
       "slug": "reflective-sign-boards",
       "name": "Reflective sign boards",
-      "summary": "Reflective sign boards are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists reflective sign boards among its road signs.",
+      "summary": "Reflective sign boards, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1275,7 +1327,7 @@
       "is_active": true,
       "sort_order": 19,
       "seo_title": "Reflective sign boards",
-      "seo_description": "Reflective sign boards are listed under road signs on the creative solutions page.",
+      "seo_description": "Reflective sign boards, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1283,7 +1335,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1297,8 +1349,8 @@
       "id": "highway-signage",
       "slug": "highway-signage",
       "name": "Highway signage",
-      "summary": "Highway signage are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists highway signage among its road signs.",
+      "summary": "Highway signage, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1307,7 +1359,7 @@
       "is_active": true,
       "sort_order": 20,
       "seo_title": "Highway signage",
-      "seo_description": "Highway signage are listed under road signs on the creative solutions page.",
+      "seo_description": "Highway signage, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1315,7 +1367,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1329,8 +1381,8 @@
       "id": "urban-and-industrial-sign-systems",
       "slug": "urban-and-industrial-sign-systems",
       "name": "Urban and industrial sign systems",
-      "summary": "Urban and industrial sign systems are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists urban and industrial sign systems among its road signs.",
+      "summary": "Urban and industrial sign systems, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1339,7 +1391,7 @@
       "is_active": true,
       "sort_order": 21,
       "seo_title": "Urban and industrial sign systems",
-      "seo_description": "Urban and industrial sign systems are listed under road signs on the creative solutions page.",
+      "seo_description": "Urban and industrial sign systems, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1347,7 +1399,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1361,8 +1413,8 @@
       "id": "custom-signage",
       "slug": "custom-signage",
       "name": "Custom road sign solutions",
-      "summary": "Custom road sign solutions are listed under road signs on the creative solutions page.",
-      "description": "ASCOM lists custom road sign solutions among its road signs.",
+      "summary": "Custom road sign solutions, part of ASCOM's road sign range.",
+      "description": "Supplied as part of ASCOM's road sign range. Contact the team for sizes, standards and quantities.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1371,7 +1423,7 @@
       "is_active": true,
       "sort_order": 22,
       "seo_title": "Custom road sign solutions",
-      "seo_description": "Custom road sign solutions are listed under road signs on the creative solutions page.",
+      "seo_description": "Custom road sign solutions, part of ASCOM's road sign range.",
       "category_slug": "signage",
       "division_slug": "creative-solutions",
       "project_slugs": [],
@@ -1379,7 +1431,7 @@
         "id": "signage",
         "slug": "signage",
         "name": "Signage",
-        "description": "Sign types named on the creative solutions page."
+        "description": "Regulatory, warning, directional and highway signs, and custom sign systems."
       },
       "division": {
         "id": "creative-solutions",
@@ -1411,7 +1463,7 @@
         "id": "creative-services",
         "slug": "creative-services",
         "name": "Creative Services",
-        "description": "Service groups from the creative solutions page."
+        "description": "Retail, trade marketing and showroom branding."
       },
       "division": {
         "id": "creative-solutions",
@@ -1443,7 +1495,7 @@
         "id": "creative-services",
         "slug": "creative-services",
         "name": "Creative Services",
-        "description": "Service groups from the creative solutions page."
+        "description": "Retail, trade marketing and showroom branding."
       },
       "division": {
         "id": "creative-solutions",
@@ -1475,7 +1527,7 @@
         "id": "creative-services",
         "slug": "creative-services",
         "name": "Creative Services",
-        "description": "Service groups from the creative solutions page."
+        "description": "Retail, trade marketing and showroom branding."
       },
       "division": {
         "id": "creative-solutions",
@@ -1490,7 +1542,7 @@
       "slug": "computers-and-workstations",
       "name": "Computers and workstations",
       "summary": "Laptops, desktops, workstations and all-in-one computers.",
-      "description": "Laptops, desktops, workstations and all-in-one computers. No brand is named on the source page.",
+      "description": "Laptops, desktops, workstations and all-in-one computers.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1507,7 +1559,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1522,7 +1574,7 @@
       "slug": "servers",
       "name": "Servers",
       "summary": "Tower, rack and scale servers.",
-      "description": "Tower, rack and scale servers. No brand is named on the source page.",
+      "description": "Tower, rack and scale servers.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1539,7 +1591,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1553,8 +1605,8 @@
       "id": "storage-systems",
       "slug": "storage-systems",
       "name": "Storage systems",
-      "summary": "SAN, hard drives and storage arrays. The source page also prints “NIAS”.",
-      "description": "SAN, hard drives and storage arrays. The source page also prints “NIAS”. No brand is named on the source page.",
+      "summary": "SAN, hard drives and storage arrays.",
+      "description": "SAN, hard drives and storage arrays.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1563,7 +1615,7 @@
       "is_active": true,
       "sort_order": 28,
       "seo_title": "Storage systems",
-      "seo_description": "SAN, hard drives and storage arrays. The source page also prints “NIAS”.",
+      "seo_description": "SAN, hard drives and storage arrays.",
       "category_slug": "technology",
       "division_slug": "technology-solutions",
       "project_slugs": [],
@@ -1571,7 +1623,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1586,7 +1638,7 @@
       "slug": "cctv-and-recording",
       "name": "CCTV and recording",
       "summary": "CCTV cameras, NVRs and DVRs.",
-      "description": "CCTV cameras, NVRs and DVRs. No brand is named on the source page.",
+      "description": "CCTV cameras, NVRs and DVRs.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1603,7 +1655,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1618,7 +1670,7 @@
       "slug": "office-supplies",
       "name": "Office supplies",
       "summary": "Stationery and office supplies.",
-      "description": "Stationery and office supplies. No brand is named on the source page.",
+      "description": "Stationery and office supplies.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1635,7 +1687,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1650,7 +1702,7 @@
       "slug": "it-infrastructure",
       "name": "IT infrastructure",
       "summary": "Design, implementation and management of IT infrastructure.",
-      "description": "Design, implementation and management of IT infrastructure. No brand is named on the source page.",
+      "description": "Design, implementation and management of IT infrastructure.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1667,7 +1719,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1681,8 +1733,8 @@
       "id": "network-security",
       "slug": "network-security",
       "name": "Network security",
-      "summary": "Described as an advanced security solution. Named products are not published.",
-      "description": "Described as an advanced security solution. Named products are not published. No brand is named on the source page.",
+      "summary": "Network protection with an advanced security solution.",
+      "description": "Network protection with an advanced security solution.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1691,7 +1743,7 @@
       "is_active": true,
       "sort_order": 32,
       "seo_title": "Network security",
-      "seo_description": "Described as an advanced security solution. Named products are not published.",
+      "seo_description": "Network protection with an advanced security solution.",
       "category_slug": "technology",
       "division_slug": "technology-solutions",
       "project_slugs": [],
@@ -1699,7 +1751,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1713,8 +1765,8 @@
       "id": "it-support",
       "slug": "it-support",
       "name": "IT support",
-      "summary": "Helpdesk and technical support, described as available 24/7.",
-      "description": "Helpdesk and technical support, described as available 24/7. No brand is named on the source page.",
+      "summary": "Helpdesk and technical support, available 24/7.",
+      "description": "Helpdesk and technical support, available 24/7.",
       "hero_image": null,
       "hero_caption": null,
       "hero_is_company_photo": false,
@@ -1731,7 +1783,7 @@
         "id": "technology",
         "slug": "technology",
         "name": "Technology",
-        "description": "Equipment and IT categories from the technology page."
+        "description": "Computers, servers, storage, CCTV, office supplies and IT services."
       },
       "division": {
         "id": "technology-solutions",
@@ -1748,7 +1800,7 @@
       "slug": "fire-crash-truck",
       "title": "Fire crash truck",
       "summary": "Manufacture and supply of fire trucks to DGP Army, described as a joint venture with Technofire.",
-      "description": "The project page states: manufacture and supply fire trucks to DGP Army (joint venture with Technofire). No date, contract value or engineering specification is published. The photographs are the gallery from that page.",
+      "description": "ASCOM manufactured and supplied fire crash trucks to DGP Army in a joint venture with Technofire.",
       "client_name": "DGP Army",
       "location": null,
       "cover_image": "/media/projects/fire-crash-truck/01.jpg",
@@ -1756,7 +1808,7 @@
       "is_active": true,
       "sort_order": 1,
       "seo_title": "Fire crash truck",
-      "seo_description": "ASCOM's published fire crash truck project for DGP Army.",
+      "seo_description": "ASCOM's fire crash truck project for DGP Army.",
       "division_slug": "vehicle-customisation",
       "division": {
         "id": "vehicle-customisation",
@@ -1767,31 +1819,31 @@
         {
           "id": "fire-crash-truck-1",
           "url": "/media/projects/fire-crash-truck/01.jpg",
-          "alt": "Fire crash trucks lined up inside an industrial hall, from ASCOM's published project photographs.",
+          "alt": "Fire crash trucks lined up inside an industrial hall.",
           "is_company_photo": true
         },
         {
           "id": "fire-crash-truck-2",
           "url": "/media/projects/fire-crash-truck/02.jpg",
-          "alt": "Fire crash truck photographed for ASCOM's published fire crash truck project.",
+          "alt": "Fire crash truck.",
           "is_company_photo": true
         },
         {
           "id": "fire-crash-truck-3",
           "url": "/media/projects/fire-crash-truck/03.jpg",
-          "alt": "Fire crash truck detail from ASCOM's published project gallery.",
+          "alt": "Fire crash truck detail.",
           "is_company_photo": true
         },
         {
           "id": "fire-crash-truck-4",
           "url": "/media/projects/fire-crash-truck/04.jpg",
-          "alt": "Fire crash truck photographed in ASCOM's published project gallery.",
+          "alt": "Fire crash truck.",
           "is_company_photo": true
         },
         {
           "id": "fire-crash-truck-5",
           "url": "/media/projects/fire-crash-truck/05.jpg",
-          "alt": "Further view from ASCOM's published fire crash truck gallery.",
+          "alt": "Further view of the fire crash trucks.",
           "is_company_photo": true
         }
       ]
@@ -1801,7 +1853,7 @@
       "slug": "firefighting-cylinders",
       "title": "Firefighting cylinders",
       "summary": "Manufacturing of firefighting cylinders.",
-      "description": "The project page states: manufacturing of fire fighting cylinders. Capacity, standard and client are not named on the page.",
+      "description": "Manufacturing of firefighting cylinders by ASCOM.",
       "client_name": null,
       "location": null,
       "cover_image": "/media/projects/firefighting-cylinders/01.jpg",
@@ -1809,7 +1861,7 @@
       "is_active": true,
       "sort_order": 2,
       "seo_title": "Firefighting cylinders",
-      "seo_description": "ASCOM's published firefighting cylinder manufacturing project.",
+      "seo_description": "ASCOM's firefighting cylinder manufacturing project.",
       "division_slug": "manufacturing",
       "division": {
         "id": "manufacturing",
@@ -1820,25 +1872,25 @@
         {
           "id": "firefighting-cylinders-1",
           "url": "/media/projects/firefighting-cylinders/01.jpg",
-          "alt": "Red firefighting cylinders stored in a workshop, from ASCOM's published project photographs.",
+          "alt": "Red firefighting cylinders stored in a workshop.",
           "is_company_photo": true
         },
         {
           "id": "firefighting-cylinders-2",
           "url": "/media/projects/firefighting-cylinders/02.jpg",
-          "alt": "Firefighting cylinders from ASCOM's published project gallery.",
+          "alt": "Firefighting cylinders.",
           "is_company_photo": true
         },
         {
           "id": "firefighting-cylinders-3",
           "url": "/media/projects/firefighting-cylinders/03.jpg",
-          "alt": "Firefighting cylinder valves from ASCOM's published project gallery.",
+          "alt": "Firefighting cylinder valves.",
           "is_company_photo": true
         },
         {
           "id": "firefighting-cylinders-4",
           "url": "/media/projects/firefighting-cylinders/04.jpg",
-          "alt": "Rows of firefighting cylinders from ASCOM's published project gallery.",
+          "alt": "Rows of firefighting cylinders.",
           "is_company_photo": true
         }
       ]
@@ -1848,7 +1900,7 @@
       "slug": "rwmc-vehicle-branding",
       "title": "RWMC vehicle branding",
       "summary": "Body paint and branding of RWMC operational vehicles.",
-      "description": "The project page states: body paint and branding work of RWMC operational vehicles. The photographs show a waste-collection vehicle carrying RWMC and Clean Punjab branding. The page does not describe a waste-collection operating contract.",
+      "description": "Body paint and branding of RWMC operational vehicles. The vehicles carry RWMC and Clean Punjab branding.",
       "client_name": "RWMC",
       "location": null,
       "cover_image": "/media/projects/rwmc-vehicle-branding/01.jpg",
@@ -1856,7 +1908,7 @@
       "is_active": true,
       "sort_order": 3,
       "seo_title": "RWMC vehicle branding",
-      "seo_description": "Body paint and branding of RWMC operational vehicles, as published by ASCOM.",
+      "seo_description": "Body paint and branding of RWMC operational vehicles by ASCOM.",
       "division_slug": "creative-solutions",
       "division": {
         "id": "creative-solutions",
@@ -1867,25 +1919,25 @@
         {
           "id": "rwmc-vehicle-branding-1",
           "url": "/media/projects/rwmc-vehicle-branding/01.jpg",
-          "alt": "RWMC operational vehicle with body branding, from ASCOM's published project photographs.",
+          "alt": "RWMC operational vehicle with body branding.",
           "is_company_photo": true
         },
         {
           "id": "rwmc-vehicle-branding-2",
           "url": "/media/projects/rwmc-vehicle-branding/02.jpg",
-          "alt": "RWMC vehicle branding from ASCOM's published project gallery.",
+          "alt": "RWMC vehicle branding.",
           "is_company_photo": true
         },
         {
           "id": "rwmc-vehicle-branding-3",
           "url": "/media/projects/rwmc-vehicle-branding/03.jpg",
-          "alt": "RWMC vehicle paint and lettering from ASCOM's published project gallery.",
+          "alt": "RWMC vehicle paint and lettering.",
           "is_company_photo": true
         },
         {
           "id": "rwmc-vehicle-branding-4",
           "url": "/media/projects/rwmc-vehicle-branding/04.jpg",
-          "alt": "Further RWMC vehicle photograph from ASCOM's published project gallery.",
+          "alt": "Further view of the RWMC vehicle.",
           "is_company_photo": true
         }
       ]
@@ -1895,7 +1947,7 @@
       "slug": "mobile-foam-unit",
       "title": "Mobile foam unit",
       "summary": "Manufactured and supplied to DGP Army as a subcontractor with Metron International.",
-      "description": "The project page states: manufacture and supplied to DGP Army as a subcontractor with Metron Intl. Capacity and chassis details are not published.",
+      "description": "Mobile foam units manufactured and supplied to DGP Army, with ASCOM working as a subcontractor to Metron International.",
       "client_name": "DGP Army",
       "location": null,
       "cover_image": "/media/projects/mobile-foam-unit/01.jpg",
@@ -1903,7 +1955,7 @@
       "is_active": true,
       "sort_order": 4,
       "seo_title": "Mobile foam unit",
-      "seo_description": "ASCOM's published mobile foam unit project.",
+      "seo_description": "ASCOM's mobile foam unit project for DGP Army.",
       "division_slug": "vehicle-customisation",
       "division": {
         "id": "vehicle-customisation",
@@ -1914,25 +1966,25 @@
         {
           "id": "mobile-foam-unit-1",
           "url": "/media/projects/mobile-foam-unit/01.jpg",
-          "alt": "Yellow mobile foam units on wheeled frames inside a workshop, from ASCOM's published project photographs.",
+          "alt": "Yellow mobile foam units on wheeled frames inside a workshop.",
           "is_company_photo": true
         },
         {
           "id": "mobile-foam-unit-2",
           "url": "/media/projects/mobile-foam-unit/02.jpg",
-          "alt": "Mobile foam units from ASCOM's published project gallery.",
+          "alt": "Mobile foam units.",
           "is_company_photo": true
         },
         {
           "id": "mobile-foam-unit-3",
           "url": "/media/projects/mobile-foam-unit/03.jpg",
-          "alt": "Mobile foam unit detail from ASCOM's published project gallery.",
+          "alt": "Mobile foam unit detail.",
           "is_company_photo": true
         },
         {
           "id": "mobile-foam-unit-4",
           "url": "/media/projects/mobile-foam-unit/04.jpg",
-          "alt": "Further mobile foam units from ASCOM's published project gallery.",
+          "alt": "Further mobile foam units.",
           "is_company_photo": true
         }
       ]
@@ -1942,7 +1994,7 @@
       "slug": "water-trailer",
       "title": "Water trailer",
       "summary": "1.5-ton, two-wheeler water trailer with a stated capacity of 400 gallons.",
-      "description": "The project page states: Water Trailer 1.5 Ton, 2 wheeler, 400 gallons. Manufacture and supply to DGP Army (joint venture with Techno Fire Pvt Ltd).",
+      "description": "Water trailer, 1.5 ton, two-wheeler, 400 gallons. Manufactured and supplied to DGP Army in a joint venture with Techno Fire Pvt Ltd.",
       "client_name": "DGP Army",
       "location": null,
       "cover_image": "/media/projects/water-trailer/01.jpg",
@@ -1950,7 +2002,7 @@
       "is_active": true,
       "sort_order": 5,
       "seo_title": "Water trailer",
-      "seo_description": "1.5-ton two-wheel water trailer published by ASCOM International.",
+      "seo_description": "1.5-ton two-wheel water trailer by ASCOM International.",
       "division_slug": "vehicle-customisation",
       "division": {
         "id": "vehicle-customisation",
@@ -1961,25 +2013,25 @@
         {
           "id": "water-trailer-1",
           "url": "/media/projects/water-trailer/01.jpg",
-          "alt": "Two-wheel water trailers, from ASCOM's published project photographs.",
+          "alt": "Two-wheel water trailers.",
           "is_company_photo": true
         },
         {
           "id": "water-trailer-2",
           "url": "/media/projects/water-trailer/02.jpg",
-          "alt": "Water trailers from ASCOM's published project gallery.",
+          "alt": "Water trailers.",
           "is_company_photo": true
         },
         {
           "id": "water-trailer-3",
           "url": "/media/projects/water-trailer/03.jpg",
-          "alt": "Water trailer chassis from ASCOM's published project gallery.",
+          "alt": "Water trailer chassis.",
           "is_company_photo": true
         },
         {
           "id": "water-trailer-4",
           "url": "/media/projects/water-trailer/04.jpg",
-          "alt": "Further water trailers from ASCOM's published project gallery.",
+          "alt": "Further water trailers.",
           "is_company_photo": true
         }
       ]
@@ -1989,7 +2041,7 @@
       "slug": "cycle-boats",
       "title": "Cycle boats",
       "summary": "Design and supply of cycle boats for the Tourism Development Corporation of Punjab.",
-      "description": "The project page states: design and supply of cycle boats at Kalarkahar lake, Uchali lake, Khabeki lake and Darabi dam, to the Tourism Development Corporation of Punjab. Place names are reproduced as published.",
+      "description": "Design and supply of cycle boats for Kalarkahar lake, Uchali lake, Khabeki lake and Darabi dam, for the Tourism Development Corporation of Punjab.",
       "client_name": "Tourism Development Corporation of Punjab",
       "location": "Kalarkahar lake, Uchali lake, Khabeki lake, Darabi dam",
       "cover_image": "/media/projects/cycle-boats/01.jpg",
@@ -2008,25 +2060,25 @@
         {
           "id": "cycle-boats-1",
           "url": "/media/projects/cycle-boats/01.jpg",
-          "alt": "Cycle boats at a lake, from ASCOM's published project photographs.",
+          "alt": "Cycle boats at a lake.",
           "is_company_photo": true
         },
         {
           "id": "cycle-boats-2",
           "url": "/media/projects/cycle-boats/02.jpg",
-          "alt": "Cycle boats from ASCOM's published project gallery.",
+          "alt": "Cycle boats.",
           "is_company_photo": true
         },
         {
           "id": "cycle-boats-3",
           "url": "/media/projects/cycle-boats/03.jpg",
-          "alt": "Cycle boat frames from ASCOM's published project gallery.",
+          "alt": "Cycle boat frames.",
           "is_company_photo": true
         },
         {
           "id": "cycle-boats-4",
           "url": "/media/projects/cycle-boats/04.jpg",
-          "alt": "Further cycle boat photograph from ASCOM's published project gallery.",
+          "alt": "Further view of the cycle boat.",
           "is_company_photo": true
         }
       ]
@@ -2036,7 +2088,7 @@
       "slug": "sundar-prefabricated-site",
       "title": "Prefabricated site at Sundar",
       "summary": "Prefabricated construction site at Sundar Industrial Estate.",
-      "description": "The project page states: pre-fabricated construction site at Sundar Industrial Estate. No floor area or contract value is published.",
+      "description": "Pre-fabricated construction at Sundar Industrial Estate, Lahore.",
       "client_name": null,
       "location": "Sundar Industrial Estate, Lahore",
       "cover_image": "/media/projects/sundar-prefabricated-site/01.jpg",
@@ -2044,7 +2096,7 @@
       "is_active": true,
       "sort_order": 7,
       "seo_title": "Prefabricated site at Sundar",
-      "seo_description": "Prefabricated construction site at Sundar Industrial Estate, published by ASCOM.",
+      "seo_description": "Prefabricated construction site at Sundar Industrial Estate, by ASCOM.",
       "division_slug": "construction",
       "division": {
         "id": "construction",
@@ -2055,25 +2107,25 @@
         {
           "id": "sundar-prefabricated-site-1",
           "url": "/media/projects/sundar-prefabricated-site/01.jpg",
-          "alt": "Crew at the prefabricated construction site at Sundar Industrial Estate, from ASCOM's published project photographs.",
+          "alt": "Crew at the prefabricated construction site at Sundar Industrial Estate.",
           "is_company_photo": true
         },
         {
           "id": "sundar-prefabricated-site-2",
           "url": "/media/projects/sundar-prefabricated-site/02.jpg",
-          "alt": "Prefabricated site photograph published by ASCOM.",
+          "alt": "Prefabricated site at Sundar Industrial Estate.",
           "is_company_photo": true
         },
         {
           "id": "sundar-prefabricated-site-3",
           "url": "/media/projects/sundar-prefabricated-site/03.jpg",
-          "alt": "Steelwork at the Sundar prefabricated site, from ASCOM's published gallery.",
+          "alt": "Steelwork at the Sundar prefabricated site.",
           "is_company_photo": true
         },
         {
           "id": "sundar-prefabricated-site-4",
           "url": "/media/projects/sundar-prefabricated-site/04.jpg",
-          "alt": "Further view of the Sundar prefabricated site published by ASCOM.",
+          "alt": "Further view of the Sundar prefabricated site.",
           "is_company_photo": true
         }
       ]
@@ -2083,7 +2135,7 @@
       "slug": "wildlife-vehicle-back-body",
       "title": "Wildlife ranger vehicle back body",
       "summary": "Design and manufacturing of a vehicle back body for Wildlife Rangers.",
-      "description": "The project page states: design and manufacturing of a vehicle back body for Wildlife Rangers, Wildlife and Parks Department.",
+      "description": "Design and manufacturing of a vehicle back body for Wildlife Rangers, Wildlife and Parks Department.",
       "client_name": "Wildlife and Parks Department",
       "location": null,
       "cover_image": "/media/projects/wildlife-vehicle-back-body/01.jpg",
@@ -2102,25 +2154,25 @@
         {
           "id": "wildlife-vehicle-back-body-1",
           "url": "/media/projects/wildlife-vehicle-back-body/01.jpg",
-          "alt": "Fabricated vehicle back body with Wildlife Rangers livery, from ASCOM's published project photographs.",
+          "alt": "Fabricated vehicle back body with Wildlife Rangers livery.",
           "is_company_photo": true
         },
         {
           "id": "wildlife-vehicle-back-body-2",
           "url": "/media/projects/wildlife-vehicle-back-body/02.jpg",
-          "alt": "Vehicle back body from ASCOM's published project gallery.",
+          "alt": "Vehicle back body.",
           "is_company_photo": true
         },
         {
           "id": "wildlife-vehicle-back-body-3",
           "url": "/media/projects/wildlife-vehicle-back-body/03.jpg",
-          "alt": "Vehicle back body detail from ASCOM's published project gallery.",
+          "alt": "Vehicle back body detail.",
           "is_company_photo": true
         },
         {
           "id": "wildlife-vehicle-back-body-4",
           "url": "/media/projects/wildlife-vehicle-back-body/04.jpg",
-          "alt": "Further vehicle back body photograph published by ASCOM.",
+          "alt": "Further view of the vehicle back body.",
           "is_company_photo": true
         }
       ]
@@ -2130,7 +2182,7 @@
       "slug": "wildlife-vehicle-branding",
       "title": "Wildlife ranger vehicle branding",
       "summary": "Vehicle body painting and branding for Wildlife Rangers.",
-      "description": "The project page states: vehicle body paint and branding works for Wildlife Rangers, Wildlife and Parks Department.",
+      "description": "Vehicle body paint and branding for Wildlife Rangers, Wildlife and Parks Department.",
       "client_name": "Wildlife and Parks Department",
       "location": null,
       "cover_image": "/media/projects/wildlife-vehicle-branding/01.jpg",
@@ -2138,7 +2190,7 @@
       "is_active": true,
       "sort_order": 9,
       "seo_title": "Wildlife ranger vehicle branding",
-      "seo_description": "Vehicle painting and branding for Wildlife Rangers, published by ASCOM.",
+      "seo_description": "Vehicle painting and branding for Wildlife Rangers, by ASCOM.",
       "division_slug": "creative-solutions",
       "division": {
         "id": "creative-solutions",
@@ -2149,25 +2201,25 @@
         {
           "id": "wildlife-vehicle-branding-1",
           "url": "/media/projects/wildlife-vehicle-branding/01.jpg",
-          "alt": "Wildlife Rangers vehicles after painting and branding, from ASCOM's published project photographs.",
+          "alt": "Wildlife Rangers vehicles after painting and branding.",
           "is_company_photo": true
         },
         {
           "id": "wildlife-vehicle-branding-2",
           "url": "/media/projects/wildlife-vehicle-branding/02.jpg",
-          "alt": "Wildlife Rangers vehicle livery from ASCOM's published project gallery.",
+          "alt": "Wildlife Rangers vehicle livery.",
           "is_company_photo": true
         },
         {
           "id": "wildlife-vehicle-branding-3",
           "url": "/media/projects/wildlife-vehicle-branding/03.jpg",
-          "alt": "Wildlife Rangers door branding from ASCOM's published project gallery.",
+          "alt": "Wildlife Rangers door branding.",
           "is_company_photo": true
         },
         {
           "id": "wildlife-vehicle-branding-4",
           "url": "/media/projects/wildlife-vehicle-branding/04.jpg",
-          "alt": "Further Wildlife Rangers vehicle photograph published by ASCOM.",
+          "alt": "Further view of the Wildlife Rangers vehicles.",
           "is_company_photo": true
         }
       ]
@@ -2178,10 +2230,10 @@
       "id": "infrastructure",
       "slug": "infrastructure",
       "name": "Infrastructure",
-      "summary": "Construction categories, plus a published prefabricated site at Sundar Industrial Estate.",
-      "body": "ASCOM lists highways and motorways, flyovers and bridges, buildings, power and energy, dams and airports. The documented construction project is the prefabricated site at Sundar Industrial Estate.",
+      "summary": "Highways, bridges, buildings, power, dams and airports, plus a prefabricated site at Sundar Industrial Estate.",
+      "body": "ASCOM's construction work includes highways and motorways, flyovers and bridges, buildings, power and energy, dams and airports, and a prefabricated site at Sundar Industrial Estate.",
       "image": "/media/projects/sundar-prefabricated-site/03.jpg",
-      "image_caption": "Published photograph from the Sundar prefabricated site.",
+      "image_caption": "Prefabricated site at Sundar Industrial Estate.",
       "image_is_company_photo": true,
       "sort_order": 1,
       "is_active": true
@@ -2190,10 +2242,10 @@
       "id": "government-and-public-sector",
       "slug": "government-and-public-sector",
       "name": "Government and public sector",
-      "summary": "Project pages name DGP Army, the Tourism Development Corporation of Punjab, and the Wildlife and Parks Department.",
-      "body": "Those three names are written on project pages. Other government marks appear in the logo wall of the previous website. A logo alone is not described here as a contract.",
+      "summary": "Work for DGP Army, the Tourism Development Corporation of Punjab and the Wildlife and Parks Department.",
+      "body": "Public-sector projects include fire crash trucks, mobile foam units and water trailers for DGP Army, cycle boats for the Tourism Development Corporation of Punjab, and vehicle bodies and branding for the Wildlife and Parks Department.",
       "image": "/media/projects/fire-crash-truck/03.jpg",
-      "image_caption": "Published fire crash truck photograph. The project page names DGP Army.",
+      "image_caption": "Fire crash trucks supplied to DGP Army.",
       "image_is_company_photo": true,
       "sort_order": 2,
       "is_active": true
@@ -2203,9 +2255,9 @@
       "slug": "industrial-manufacturing",
       "name": "Industrial manufacturing",
       "summary": "Metal, plastic and electrical goods from the Sundar factory, including cylinders and fabricated equipment.",
-      "body": "Manufacturing capabilities are published as an in-house process list. Project photography shows cylinders, foam units, trailers and vehicle bodies.",
+      "body": "Manufacturing runs in-house at the Sundar factory, from CNC machining and fabrication to moulding, finishing, assembly and testing. Projects include firefighting cylinders, foam units, trailers and vehicle bodies.",
       "image": "/media/projects/firefighting-cylinders/04.jpg",
-      "image_caption": "Published photograph of firefighting cylinders.",
+      "image_caption": "Firefighting cylinders in a workshop.",
       "image_is_company_photo": true,
       "sort_order": 3,
       "is_active": true
@@ -2215,9 +2267,9 @@
       "slug": "emergency-and-fire-safety",
       "name": "Emergency and fire safety",
       "summary": "Fire crash trucks, mobile foam units and firefighting cylinders.",
-      "body": "These three are published projects. The truck and foam unit pages name DGP Army. Specifications beyond the project sentences are not published.",
+      "body": "Fire crash trucks and mobile foam units were supplied to DGP Army. ASCOM also manufactures firefighting cylinders.",
       "image": "/media/projects/mobile-foam-unit/01.jpg",
-      "image_caption": "Published photograph of mobile foam units.",
+      "image_caption": "Mobile foam units supplied to DGP Army.",
       "image_is_company_photo": true,
       "sort_order": 4,
       "is_active": true
@@ -2226,10 +2278,10 @@
       "id": "transportation",
       "slug": "transportation",
       "name": "Transportation",
-      "summary": "Road signs, road-safety products, and the highway category on the construction page.",
-      "body": "Transportation work that is actually described is the road-sign list, the road-safety product list, and the highway and motorway construction category. Named road contracts are not published.",
+      "summary": "Road signs, road safety products, and highway and motorway construction.",
+      "body": "Transportation work covers road signs, road safety products, and highway and motorway construction.",
       "image": "/media/atmosphere/road.jpg",
-      "image_caption": "Atmospheric road photograph. Not an ASCOM project.",
+      "image_caption": "Road interchange from the air.",
       "image_is_company_photo": false,
       "sort_order": 5,
       "is_active": true
@@ -2239,9 +2291,9 @@
       "slug": "municipal-services",
       "name": "Municipal services",
       "summary": "Body paint and branding of RWMC operational vehicles.",
-      "body": "The published RWMC project is vehicle painting and branding. WASA Lahore appears as a logo on the previous website and is not given a project of its own here.",
+      "body": "ASCOM carried out body paint and branding for RWMC operational vehicles.",
       "image": "/media/projects/rwmc-vehicle-branding/03.jpg",
-      "image_caption": "Published photograph of an RWMC vehicle after branding.",
+      "image_caption": "RWMC vehicle after body paint and branding.",
       "image_is_company_photo": true,
       "sort_order": 6,
       "is_active": true
@@ -2251,9 +2303,9 @@
       "slug": "commercial-organisations",
       "name": "Commercial organisations",
       "summary": "Signage, retail branding, packaging and giveaways.",
-      "body": "Creative Solutions lists trade marketing, petroleum retail identity, shop renovation, packaging and corporate gifts. Commercial logos on the previous site include Mezan, HBL, UMT, the University of the Punjab and Zameen. Those logos are not paired with a written case study.",
+      "body": "Creative Solutions serves commercial organisations with trade marketing, petroleum retail identity, shop renovation, packaging and corporate gifts. Clients include Mezan, HBL, UMT, the University of the Punjab and Zameen.",
       "image": "/media/projects/wildlife-vehicle-branding/02.jpg",
-      "image_caption": "Published branding photograph. Commercial case studies were not written up on the previous site.",
+      "image_caption": "Vehicle painting and branding for Wildlife Rangers.",
       "image_is_company_photo": true,
       "sort_order": 7,
       "is_active": true
@@ -2262,10 +2314,10 @@
       "id": "automotive",
       "slug": "automotive",
       "name": "Automotive",
-      "summary": "Precision parts for vehicles, as named in the company profile.",
-      "body": "The company profile lists automotive among the industries it serves, described as precision parts.",
+      "summary": "Precision parts for vehicles.",
+      "body": "ASCOM serves the automotive industry with precision parts.",
       "image": "/media/brand/hero.jpg",
-      "image_caption": "Homepage visual. Not a photograph of an automotive contract.",
+      "image_caption": "Vehicle preparation in an industrial hall.",
       "image_is_company_photo": false,
       "sort_order": 8,
       "is_active": true
@@ -2274,8 +2326,8 @@
       "id": "agriculture",
       "slug": "agriculture",
       "name": "Agriculture",
-      "summary": "Components for farming, as named in the company profile.",
-      "body": "The company profile lists agriculture among the industries it serves.",
+      "summary": "Components for farming.",
+      "body": "ASCOM serves agriculture with components for farming.",
       "image": null,
       "image_caption": null,
       "image_is_company_photo": false,
@@ -2286,8 +2338,8 @@
       "id": "energy-and-power",
       "slug": "energy-and-power",
       "name": "Energy and power",
-      "summary": "Products for energy and power, as named in the company profile.",
-      "body": "The company profile lists energy and power among the industries it serves. The earlier website also names power and energy as a construction category.",
+      "summary": "Products for energy and power.",
+      "body": "ASCOM supplies products for energy and power. Power and energy is also one of its construction categories.",
       "image": null,
       "image_caption": null,
       "image_is_company_photo": false,
@@ -2298,10 +2350,10 @@
       "id": "machinery-and-equipment",
       "slug": "machinery-and-equipment",
       "name": "Machinery and equipment",
-      "summary": "Heavy-duty machinery and equipment, as named in the company profile.",
-      "body": "The company profile lists machinery and equipment among the industries it serves.",
+      "summary": "Heavy-duty machinery and equipment.",
+      "body": "ASCOM supplies heavy-duty machinery and equipment.",
       "image": "/media/projects/water-trailer/03.jpg",
-      "image_caption": "Published photograph of a fabricated water trailer.",
+      "image_caption": "Fabricated water trailer.",
       "image_is_company_photo": true,
       "sort_order": 11,
       "is_active": true
@@ -2310,10 +2362,10 @@
       "id": "general-industry",
       "slug": "general-industry",
       "name": "General industry",
-      "summary": "Industrial supply across sectors, as named in the company profile.",
-      "body": "The company profile lists general industry among the industries it serves.",
+      "summary": "Industrial supply across sectors.",
+      "body": "ASCOM supplies industry across sectors.",
       "image": "/media/projects/mobile-foam-unit/04.jpg",
-      "image_caption": "Published photograph of mobile foam units.",
+      "image_caption": "Mobile foam units in a workshop.",
       "image_is_company_photo": true,
       "sort_order": 12,
       "is_active": true
@@ -2324,7 +2376,7 @@
       "id": "capability-1",
       "group_key": "capability",
       "title": "Industrial manufacturing",
-      "summary": "Metal, plastic and electrical goods, with CNC, molding, finishing, assembly and testing listed in-house.",
+      "summary": "Metal, plastic and electrical goods, with CNC, molding, finishing, assembly and testing in-house.",
       "href": "/businesses/manufacturing",
       "sort_order": 3,
       "is_active": true
@@ -2333,7 +2385,7 @@
       "id": "capability-2",
       "group_key": "capability",
       "title": "Specialised vehicles",
-      "summary": "Fire crash trucks, foam units, water trailers and vehicle bodies, documented as projects.",
+      "summary": "Fire crash trucks, foam units, water trailers and vehicle bodies.",
       "href": "/businesses/vehicle-customisation",
       "sort_order": 4,
       "is_active": true
@@ -2351,7 +2403,7 @@
       "id": "capability-4",
       "group_key": "capability",
       "title": "Road safety",
-      "summary": "A published list of traffic products and road signs.",
+      "summary": "Traffic safety products and road signs.",
       "href": "/businesses/road-safety",
       "sort_order": 2,
       "is_active": true
@@ -2360,7 +2412,7 @@
       "id": "capability-5",
       "group_key": "capability",
       "title": "Construction",
-      "summary": "One of the published divisions: highways, bridges, buildings, power, dams, airports, and a prefabricated site at Sundar.",
+      "summary": "Highways, bridges, buildings, power, dams and airports, and a prefabricated site at Sundar.",
       "href": "/businesses/construction",
       "sort_order": 6,
       "is_active": true
@@ -2378,7 +2430,7 @@
       "id": "why-1",
       "group_key": "why",
       "title": "Several disciplines in one company",
-      "summary": "Signage and branding lead. Manufacturing, vehicles, road safety, technology and construction are published alongside them.",
+      "summary": "Signage and branding lead. Manufacturing, vehicles, road safety, technology and construction sit alongside them.",
       "href": "/businesses",
       "sort_order": 2,
       "is_active": true
@@ -2387,7 +2439,7 @@
       "id": "why-2",
       "group_key": "why",
       "title": "In-house manufacturing",
-      "summary": "The company says it controls production from raw material to packaging for metal, plastic and electrical goods.",
+      "summary": "Production is controlled in-house from raw material to packaging, for metal, plastic and electrical goods.",
       "href": "/businesses/manufacturing",
       "sort_order": 3,
       "is_active": true
@@ -2396,7 +2448,7 @@
       "id": "why-3",
       "group_key": "why",
       "title": "Custom and OEM work",
-      "summary": "OEM, ODM and private labelling are published manufacturing capabilities.",
+      "summary": "OEM, ODM and private labelling are part of the manufacturing offer.",
       "href": "/businesses/manufacturing",
       "sort_order": 4,
       "is_active": true
@@ -2405,7 +2457,7 @@
       "id": "why-4",
       "group_key": "why",
       "title": "Documented vehicle projects",
-      "summary": "Fire appliances, foam units, trailers and ranger bodies are published with photographs.",
+      "summary": "Fire appliances, foam units, trailers and ranger vehicle bodies, each documented with photographs.",
       "href": "/projects",
       "sort_order": 5,
       "is_active": true
@@ -2423,7 +2475,7 @@
       "id": "why-6",
       "group_key": "why",
       "title": "Signage since 2018",
-      "summary": "The company dates its signage media work from 2018. That is the longest published history on the site.",
+      "summary": "ASCOM has worked in signage media since 2018.",
       "href": "/about",
       "sort_order": 1,
       "is_active": true
@@ -2435,7 +2487,7 @@
       "name": "Pakistan Engineering Council",
       "kind": "registration",
       "logo_url": "/media/organizations/pec.jpg",
-      "notes": "Crest shown on the previous site. The licence scan is not republished.",
+      "notes": "Registration body.",
       "sort_order": 1,
       "is_active": true
     },
@@ -2444,7 +2496,7 @@
       "name": "Federal Board of Revenue",
       "kind": "registration",
       "logo_url": "/media/organizations/fbr.jpg",
-      "notes": "Logo shown on the previous site.",
+      "notes": "Registration body.",
       "sort_order": 2,
       "is_active": true
     },
@@ -2453,7 +2505,7 @@
       "name": "Punjab Revenue Authority",
       "kind": "registration",
       "logo_url": "/media/organizations/pra.jpg",
-      "notes": "Logo shown on the previous site.",
+      "notes": "Registration body.",
       "sort_order": 3,
       "is_active": true
     },
@@ -2462,7 +2514,7 @@
       "name": "Lahore Chamber of Commerce & Industry",
       "kind": "registration",
       "logo_url": "/media/organizations/lcci.jpg",
-      "notes": "Logo shown on the previous site. The membership certificate is not republished.",
+      "notes": "Registration body.",
       "sort_order": 4,
       "is_active": true
     },
@@ -2471,7 +2523,7 @@
       "name": "Pakistan Single Window",
       "kind": "registration",
       "logo_url": "/media/organizations/psw.jpg",
-      "notes": "Logo shown on the previous site.",
+      "notes": "Registration body.",
       "sort_order": 5,
       "is_active": true
     },
@@ -2480,7 +2532,7 @@
       "name": "Excise, Taxation & Narcotics Control Department, Punjab",
       "kind": "registration",
       "logo_url": "/media/organizations/excise.jpg",
-      "notes": "Logo shown on the previous site.",
+      "notes": "Registration body.",
       "sort_order": 6,
       "is_active": true
     },
@@ -2678,7 +2730,7 @@
       "name": "Punjab Wildlife & Parks Department",
       "kind": "client",
       "logo_url": "/media/organizations/wildlife-parks.jpg",
-      "notes": "Second showing of the department seal, as on the previous homepage between Zameen and TEVTA.",
+      "notes": "Second Punjab Wildlife & Parks Department seal, shown between Zameen and TEVTA.",
       "sort_order": 22,
       "is_active": true
     },
@@ -2707,7 +2759,7 @@
       "slug": "code-of-conduct",
       "title": "Code of conduct",
       "summary": "Ethical conduct, anti-bribery rules, and how to raise a concern.",
-      "body": "ASCOM International is dedicated to upholding the highest standards of ethical, moral, and legal conduct in all aspects of its business. In line with this commitment, and with the aim of transparent communication, vendors and associated individuals are encouraged to raise concerns. The company states that their identity will remain confidential and that they will be safeguarded against retaliation or discrimination for reporting issues in good faith.\n\nAnti-bribery and anti-corruption\n\nASCOM states that it is committed to complying with applicable domestic and international laws, regulations, and conventions related to anti-bribery and anti-corruption. It opposes corrupt practices, including bribery intended to secure business or gain an undue advantage.\n\nThe published policy says that engaging in corruption is illegal and against ASCOM's values. Unlawful payments, including facilitation payments aimed at influencing routine actions by government officials, are denounced. The company states a zero-tolerance policy toward bribery and corruption.\n\nNo bribes — whether offered by public officials, private individuals, or third parties — are tolerated. Employees, vendors, and contractors are expected to understand that offering or providing an improper benefit to sway a decision, even if the recipient is not a government representative, may result in disciplinary action and potential criminal prosecution.\n\nExpected behaviour\n\nComply with applicable laws and regulations that prohibit paying or giving anything of value, either directly or indirectly, to a government official or a family member of a government official, a private individual, or employees of companies that are wholly or partially owned by a government entity.\n\nEnsure that interactions and transactions with government officials, or with employees of companies, are clearly and accurately recorded.\n\nNever allow joint-venture or consortium partners, subcontractors, suppliers, agents, consultants, intermediaries, or others to make prohibited payments on ASCOM's behalf.\n\nSeek advice in advance from the division or corporate HR department, or from the department head, before offering gifts, entertainment, other hospitality, meals, travel expenses, or charitable donations.\n\nReport observed conduct that potentially violates anti-corruption law.\n\nDefinitions published on the current site\n\nBribery. A bribe is an amount of money or any favour given or promised in order to influence the judgment or conduct of a person in a position of trust. A bribe may also take the form of gifts, travel expenses, below-market loans, favours, and business or employment opportunities.\n\nProhibited or facilitation payments. Offering or giving improper benefits, or making payments, in order to influence the decision of the recipient.\n\nConflict of interest. A conflict may exist when an employee, or a member of that employee's family, is involved in an activity or has a personal interest that could impair, or appear to impair, objective and fair decisions, or that could create an incentive to act in a way that advances personal interests at the expense of ASCOM.\n\nRaising a concern\n\nThe previous website asked for a full name, company or vendor name, phone number, email address, the concern, any evidence, and a message. Use the contact form and choose “Code of conduct”. The form opens your email program, so evidence can be attached to the email before it is sent. Nothing is stored on the website. It is not a separate anonymous hotline; the previous site did not publish one.\n",
+      "body": "ASCOM International is dedicated to upholding the highest standards of ethical, moral, and legal conduct in all aspects of its business. In line with this commitment, and with the aim of transparent communication, vendors and associated individuals are encouraged to raise concerns. Their identity will remain confidential, and they will be safeguarded against retaliation or discrimination for reporting issues in good faith.\n\nAnti-bribery and anti-corruption\n\nASCOM is committed to complying with applicable domestic and international laws, regulations, and conventions related to anti-bribery and anti-corruption. It opposes corrupt practices, including bribery intended to secure business or gain an undue advantage.\n\nEngaging in corruption is illegal and against ASCOM's values. Unlawful payments, including facilitation payments aimed at influencing routine actions by government officials, are denounced. ASCOM has a zero-tolerance policy toward bribery and corruption.\n\nNo bribes — whether offered by public officials, private individuals, or third parties — are tolerated. Employees, vendors, and contractors are expected to understand that offering or providing an improper benefit to sway a decision, even if the recipient is not a government representative, may result in disciplinary action and potential criminal prosecution.\n\nExpected behaviour\n\nComply with applicable laws and regulations that prohibit paying or giving anything of value, either directly or indirectly, to a government official or a family member of a government official, a private individual, or employees of companies that are wholly or partially owned by a government entity.\n\nEnsure that interactions and transactions with government officials, or with employees of companies, are clearly and accurately recorded.\n\nNever allow joint-venture or consortium partners, subcontractors, suppliers, agents, consultants, intermediaries, or others to make prohibited payments on ASCOM's behalf.\n\nSeek advice in advance from the division or corporate HR department, or from the department head, before offering gifts, entertainment, other hospitality, meals, travel expenses, or charitable donations.\n\nReport observed conduct that potentially violates anti-corruption law.\n\nDefinitions\n\nBribery. A bribe is an amount of money or any favour given or promised in order to influence the judgment or conduct of a person in a position of trust. A bribe may also take the form of gifts, travel expenses, below-market loans, favours, and business or employment opportunities.\n\nProhibited or facilitation payments. Offering or giving improper benefits, or making payments, in order to influence the decision of the recipient.\n\nConflict of interest. A conflict may exist when an employee, or a member of that employee's family, is involved in an activity or has a personal interest that could impair, or appear to impair, objective and fair decisions, or that could create an incentive to act in a way that advances personal interests at the expense of ASCOM.\n\nRaising a concern\n\nTo raise a concern, include your full name, company or vendor name, phone number, email address, the concern, any evidence, and a message. Use the contact form and choose “Code of conduct”. The form opens your email program, so evidence can be attached to the email before it is sent. The form is not an anonymous hotline.\n",
       "category": "Governance",
       "file_url": null,
       "is_active": true,

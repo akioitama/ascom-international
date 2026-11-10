@@ -283,7 +283,7 @@ export default function HomePage() {
               label="Featured projects"
               title={
                 <>
-                  Selected work, <span className="text-ink/50">from the published project galleries.</span>
+                  Selected work, <span className="text-ink/50">across ASCOM&apos;s businesses.</span>
                 </>
               }
               action={{ href: "/projects", label: "View all projects" }}
@@ -344,7 +344,7 @@ export default function HomePage() {
       <section className="relative isolate overflow-hidden bg-navy text-white">
         <Photo
           src="/media/projects/firefighting-cylinders/04.jpg"
-          alt="Rows of firefighting cylinders in a workshop, from ASCOM's published project photographs."
+          alt="Rows of firefighting cylinders in a workshop."
           sizes="100vw"
           position="75% 50%"
           className="absolute inset-0 -z-20"
@@ -393,7 +393,7 @@ export default function HomePage() {
               <h2 className="mt-6 text-headline font-medium">
                 Why work <span className="text-ink/50">with ASCOM.</span>
               </h2>
-              <p className="mt-6 max-w-sm text-lead text-muted">{numberWord(reasons.length)} points drawn from the company&apos;s published work and profile.</p>
+              <p className="mt-6 max-w-sm text-lead text-muted">{numberWord(reasons.length)} points that set the company apart.</p>
             </div>
           </Reveal>
           <div className="grid gap-x-8 sm:grid-cols-2 lg:col-span-7 lg:col-start-6">
@@ -460,7 +460,7 @@ export default function HomePage() {
               label="Organisations"
               title={
                 <>
-                  Marks shown on the <span className="text-ink/50">previous ASCOM website.</span>
+                  Registrations <span className="text-ink/50">and clients.</span>
                 </>
               }
               intro={settings.organization_note}
@@ -468,15 +468,15 @@ export default function HomePage() {
           </Reveal>
           <div className="mt-16 grid gap-6 lg:mt-20 lg:grid-cols-12">
             <div className="lg:col-span-3">
-              <h3 className="eyebrow text-ink">Registration marks</h3>
-              <p className="mt-2 text-sm text-muted">{registrations.length} marks</p>
+              <h3 className="eyebrow text-ink">Registrations</h3>
+              <p className="mt-2 text-sm text-muted">{registrations.length} registration bodies</p>
             </div>
             <LogoGrid items={registrations} className="lg:col-span-9 lg:grid-cols-6" />
           </div>
           <div className="mt-14 grid gap-6 lg:grid-cols-12">
             <div className="lg:col-span-3">
-              <h3 className="eyebrow text-ink">Client marks</h3>
-              <p className="mt-2 text-sm text-muted">{clients.length} marks</p>
+              <h3 className="eyebrow text-ink">Clients</h3>
+              <p className="mt-2 text-sm text-muted">{clients.length} organisations</p>
             </div>
             <LogoGrid items={clients} className="md:grid-cols-4 lg:col-span-9 lg:grid-cols-6" />
           </div>

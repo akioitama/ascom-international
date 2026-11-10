@@ -12,7 +12,7 @@ type Item = { href: string; label: string; note?: string; image?: string | null;
 type MenuKey = "businesses" | "products" | "resources" | null;
 
 const resources: Item[] = [
-  { href: "/resources", label: "Resource centre", note: "Documents published by the company." },
+  { href: "/resources", label: "Resource centre", note: "Company documents and policies." },
   { href: "/code-of-conduct", label: "Code of conduct", note: "Ethics, anti-bribery and raising a concern." },
 ];
 export function Header({

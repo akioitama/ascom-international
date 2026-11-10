@@ -12,7 +12,7 @@ import { cn, pad } from "@/lib/utils";
 
 export const metadata: Metadata = {
   title: "Projects",
-  description: "Projects published by ASCOM International, including firefighting vehicles, vehicle bodies, cycle boats and a prefabricated site.",
+  description: "Projects by ASCOM International, including firefighting vehicles, vehicle bodies, cycle boats and a prefabricated site.",
   alternates: { canonical: "/projects" },
 };
 
@@ -42,10 +42,10 @@ export default async function ProjectsPage({ searchParams }: { searchParams: Pro
         kicker="Portfolio"
         title={
           <>
-            Projects, <span className="text-ink/50">from the published galleries.</span>
+            Projects <span className="text-ink/50">across ASCOM&apos;s businesses.</span>
           </>
         }
-        text="Vehicles, equipment, branding and site work, each shown with the photographs from its project page."
+        text="Vehicles, equipment, branding and site work, each shown with its photographs."
         crumbs={[{ href: "/", label: "Home" }, { label: "Projects" }]}
         facts={[
           { label: "Projects", value: pad(all.length) },

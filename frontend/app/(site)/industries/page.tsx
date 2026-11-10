@@ -12,7 +12,7 @@ import { pad } from "@/lib/utils";
 
 export const metadata: Metadata = {
   title: "Industries",
-  description: "Industries connected to published ASCOM International work.",
+  description: "Industries served by ASCOM International.",
   alternates: { canonical: "/industries" },
 };
 
@@ -25,10 +25,10 @@ export default function IndustriesPage() {
         kicker="Industries"
         title={
           <>
-            Industries served, <span className="text-ink/50">tied to published work.</span>
+            Industries served, <span className="text-ink/50">across the public and private sectors.</span>
           </>
         }
-        text="Each industry is tied to a published activity or a named project. A logo on its own is not treated as a contract."
+        text="Sectors where ASCOM's businesses supply products, vehicles, signage and services."
         crumbs={[{ href: "/", label: "Home" }, { label: "Industries" }]}
       />
       <section className="bg-foam">

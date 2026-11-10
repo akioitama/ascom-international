@@ -35,10 +35,10 @@ export default function BusinessesPage() {
         kicker="Businesses"
         title={
           <>
-            The work ASCOM publishes, <span className="text-ink/50">kept as separate practices.</span>
+            ASCOM&apos;s businesses, <span className="text-ink/50">each with its own practice.</span>
           </>
         }
-        text={`${numberWord(divisions.length)} businesses. Each has its own page, with the services the company lists and the projects published for it.`}
+        text={`${numberWord(divisions.length)} businesses. Each has its own page, with its services and projects.`}
         crumbs={[{ href: "/", label: "Home" }, { label: "Businesses" }]}
       />
       <section className="bg-foam">

@@ -43,8 +43,8 @@ export default async function ProjectPage({ params }: { params: Promise<Params> 
         "ASCOM International"
       ),
     },
-    ...(project.client_name ? [{ label: "Named on the project page", value: project.client_name }] : []),
-    ...(project.location ? [{ label: "Location as published", value: project.location }] : []),
+    ...(project.client_name ? [{ label: "Client", value: project.client_name }] : []),
+    ...(project.location ? [{ label: "Location", value: project.location }] : []),
     { label: "Photographs", value: pad(images.length) },
   ];
 
@@ -80,7 +80,7 @@ export default async function ProjectPage({ params }: { params: Promise<Params> 
         <section className="border-t border-line bg-white">
           <div className="shell py-24 lg:py-32">
             <Reveal>
-              <SectionHeading index="02" label="Gallery" title={`${pad(images.length)} photographs`} intro="From the project page. Select a photograph to view it full screen." />
+              <SectionHeading index="02" label="Gallery" title={`${pad(images.length)} photographs`} intro="Select a photograph to view it full screen." />
             </Reveal>
             <div className="mt-16 lg:mt-20">
               <Gallery images={images} title={project.title} />
