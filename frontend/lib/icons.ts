@@ -66,9 +66,8 @@ const byDivision: Record<string, LucideIcon> = {
   manufacturing: Factory,
   "technology-solutions": Cpu,
   engineering: Cog,
-  "road-safety": TrafficCone,
+  safety: ShieldCheck,
   "vehicle-customisation": Truck,
-  "fire-safety": FireExtinguisher,
   "military-and-defence": Shield,
 };
 

@@ -427,29 +427,54 @@
       ]
     },
     {
-      "slug": "road-safety",
-      "name": "Road Safety",
-      "summary": "Traffic safety products and road signs.",
-      "body": "Road safety work comes in two ranges: road safety products and road signs.\n\nProducts include traffic cones, safety barriers, reflective tapes, road studs (cat eyes), speed breakers, convex mirrors, safety bollards and high-visibility gear.\n\nSigns include regulatory signs, warning signs, directional signage, reflective sign boards, custom road signs, highway signage, and urban and industrial sign systems.\n\nContact the team for sizes, standards and reflective grades.",
-      "hero_image": "/media/atmosphere/road.jpg",
-      "hero_caption": "Road interchange from the air.",
-      "hero_is_company_photo": false,
+      "slug": "safety",
+      "name": "Safety",
+      "summary": "Road safety products and road signs, plus fire detection, alarm systems and firefighting equipment.",
+      "body": "Safety covers two areas: road safety and fire safety.\n\nRoad safety comes in two ranges: road safety products and road signs. Products include traffic cones, safety barriers, reflective tapes, road studs (cat eyes), speed breakers, convex mirrors, safety bollards and high-visibility gear.\n\nSigns include regulatory signs, warning signs, directional signage, reflective sign boards, custom road signs, highway signage, and urban and industrial sign systems.\n\nFire safety covers fire alarm and fire safety work: early detection, control panels, manual call points, alarm sounders, installation, commissioning and maintenance.\n\nThe range also includes smoke detectors, heat detectors, repeater panels, alarm accessories, fire-resistant cable and fire safety signage, for commercial, industrial and institutional projects.\n\nASCOM has also delivered fire crash trucks, mobile foam units and firefighting cylinders.\n\nContact the team for sizes, standards, reflective grades and system requirements.",
+      "hero_image": "/media/projects/fire-crash-truck/04.jpg",
+      "hero_caption": "Equipment compartment of a fire crash truck.",
+      "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
       "sort_order": 6,
-      "seo_title": "Road Safety",
-      "seo_description": "Road safety products and road signs listed by ASCOM International.",
-      "id": "road-safety",
+      "seo_title": "Safety",
+      "seo_description": "Road safety products, road signs and fire safety systems from ASCOM International.",
+      "id": "safety",
       "offerings": [
         {
-          "id": "road-safety-offer-1",
+          "id": "safety-offer-1",
           "title": "Road safety products",
           "description": "Cones, barriers, tapes, studs, speed breakers, mirrors, bollards and high-visibility gear."
         },
         {
-          "id": "road-safety-offer-2",
+          "id": "safety-offer-2",
           "title": "Road signs",
           "description": "Regulatory, warning, directional, reflective, highway, urban and industrial signs."
+        },
+        {
+          "id": "safety-offer-3",
+          "title": "Fire detection and alarm devices",
+          "description": "Smoke detectors, heat detectors, control panels, manual call points, sounders and repeater panels."
+        },
+        {
+          "id": "safety-offer-4",
+          "title": "Fire safety design and consultation",
+          "description": "Site assessment, system design and equipment selection."
+        },
+        {
+          "id": "safety-offer-5",
+          "title": "Fire alarm supply and installation",
+          "description": "Supply and installation of fire alarm and detection systems."
+        },
+        {
+          "id": "safety-offer-6",
+          "title": "Testing and commissioning",
+          "description": "Testing and commissioning of installed fire alarm systems."
+        },
+        {
+          "id": "safety-offer-7",
+          "title": "Maintenance and support",
+          "description": "Routine maintenance and 24/7 support for installed systems."
         }
       ]
     },
@@ -491,48 +516,6 @@
       ]
     },
     {
-      "slug": "fire-safety",
-      "name": "Fire Safety",
-      "summary": "Fire detection, alarm systems and firefighting equipment for commercial and industrial sites.",
-      "body": "Fire Safety covers fire alarm and fire safety work: early detection, control panels, manual call points, alarm sounders, installation, commissioning and maintenance.\n\nThe range also includes smoke detectors, heat detectors, repeater panels, alarm accessories, fire-resistant cable and fire safety signage, for commercial, industrial and institutional projects.\n\nASCOM has also delivered fire crash trucks, mobile foam units and firefighting cylinders.",
-      "hero_image": "/media/projects/fire-crash-truck/04.jpg",
-      "hero_caption": "Equipment compartment of a fire crash truck.",
-      "hero_is_company_photo": true,
-      "is_active": true,
-      "show_in_navigation": true,
-      "sort_order": 8,
-      "seo_title": "Fire Safety",
-      "seo_description": "Fire alarm systems and fire safety equipment from ASCOM International.",
-      "id": "fire-safety",
-      "offerings": [
-        {
-          "id": "fire-safety-offer-1",
-          "title": "Design and consultation",
-          "description": "Site assessment, system design and equipment selection."
-        },
-        {
-          "id": "fire-safety-offer-2",
-          "title": "Supply and installation",
-          "description": "Supply and installation of fire alarm and detection systems."
-        },
-        {
-          "id": "fire-safety-offer-3",
-          "title": "Testing and commissioning",
-          "description": "Testing and commissioning of installed systems."
-        },
-        {
-          "id": "fire-safety-offer-4",
-          "title": "Maintenance and support",
-          "description": "Routine maintenance and 24/7 support."
-        },
-        {
-          "id": "fire-safety-offer-5",
-          "title": "Detection and alarm devices",
-          "description": "Smoke detectors, heat detectors, control panels, manual call points, sounders and repeater panels."
-        }
-      ]
-    },
-    {
       "slug": "military-and-defence",
       "name": "Military and Defence Supplies",
       "summary": "Procurement, manufacturing and integrated supply for defence and security.",
@@ -542,7 +525,7 @@
       "hero_is_company_photo": true,
       "is_active": true,
       "show_in_navigation": true,
-      "sort_order": 9,
+      "sort_order": 8,
       "seo_title": "Military and Defence Supplies",
       "seo_description": "Military, defence and security supply from ASCOM International.",
       "id": "military-and-defence",
@@ -977,7 +960,7 @@
       "seo_title": "Traffic cones",
       "seo_description": "Traffic cones, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -986,9 +969,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1009,7 +992,7 @@
       "seo_title": "Safety barriers",
       "seo_description": "Safety barriers, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1018,9 +1001,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1041,7 +1024,7 @@
       "seo_title": "Reflective tapes",
       "seo_description": "Reflective tapes, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1050,9 +1033,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1073,7 +1056,7 @@
       "seo_title": "Road studs (cat eyes)",
       "seo_description": "Road studs (cat eyes), part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1082,9 +1065,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1105,7 +1088,7 @@
       "seo_title": "Speed breakers",
       "seo_description": "Speed breakers, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1114,9 +1097,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1137,7 +1120,7 @@
       "seo_title": "Convex mirrors",
       "seo_description": "Convex mirrors, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1146,9 +1129,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1169,7 +1152,7 @@
       "seo_title": "Safety bollards",
       "seo_description": "Safety bollards, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1178,9 +1161,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -1201,7 +1184,7 @@
       "seo_title": "High-visibility safety gear",
       "seo_description": "High-visibility safety gear, part of ASCOM's road safety range.",
       "category_slug": "road-safety-products",
-      "division_slug": "road-safety",
+      "division_slug": "safety",
       "project_slugs": [],
       "category": {
         "id": "road-safety-products",
@@ -1210,9 +1193,9 @@
         "description": "Traffic cones, barriers, road studs, mirrors and other road safety products."
       },
       "division": {
-        "id": "road-safety",
-        "slug": "road-safety",
-        "name": "Road Safety"
+        "id": "safety",
+        "slug": "safety",
+        "name": "Safety"
       },
       "specs": [],
       "documents": []
@@ -2404,7 +2387,7 @@
       "group_key": "capability",
       "title": "Road safety",
       "summary": "Traffic safety products and road signs.",
-      "href": "/businesses/road-safety",
+      "href": "/businesses/safety",
       "sort_order": 2,
       "is_active": true
     },
@@ -2510,12 +2493,21 @@
       "is_active": true
     },
     {
+      "id": "org-31",
+      "name": "Khyber Pakhtunkhwa Revenue Authority",
+      "kind": "registration",
+      "logo_url": "/media/organizations/kpra.jpg",
+      "notes": "Registration body (KPK NTN).",
+      "sort_order": 4,
+      "is_active": true
+    },
+    {
       "id": "org-4",
       "name": "Lahore Chamber of Commerce & Industry",
       "kind": "registration",
       "logo_url": "/media/organizations/lcci.jpg",
       "notes": "Registration body.",
-      "sort_order": 4,
+      "sort_order": 5,
       "is_active": true
     },
     {
@@ -2524,7 +2516,7 @@
       "kind": "registration",
       "logo_url": "/media/organizations/psw.jpg",
       "notes": "Registration body.",
-      "sort_order": 5,
+      "sort_order": 6,
       "is_active": true
     },
     {
@@ -2533,7 +2525,7 @@
       "kind": "registration",
       "logo_url": "/media/organizations/excise.jpg",
       "notes": "Registration body.",
-      "sort_order": 6,
+      "sort_order": 7,
       "is_active": true
     },
     {
@@ -2750,6 +2742,60 @@
       "logo_url": "/media/organizations/wildlife-hospital.png",
       "notes": "Directorate General of Wildlife & Parks mark shown under clients.",
       "sort_order": 24,
+      "is_active": true
+    },
+    {
+      "id": "org-32",
+      "name": "Wildlife Rescue Force",
+      "kind": "client",
+      "logo_url": "/media/organizations/wildlife-rescue-force.jpg",
+      "notes": "Client.",
+      "sort_order": 25,
+      "is_active": true
+    },
+    {
+      "id": "org-33",
+      "name": "Punjab Food Authority",
+      "kind": "client",
+      "logo_url": "/media/organizations/punjab-food-authority.jpg",
+      "notes": "Client.",
+      "sort_order": 26,
+      "is_active": true
+    },
+    {
+      "id": "org-34",
+      "name": "Wildlife 7D Cinema",
+      "kind": "client",
+      "logo_url": "/media/organizations/wildlife-7d-cinema.jpg",
+      "notes": "Client.",
+      "sort_order": 27,
+      "is_active": true
+    },
+    {
+      "id": "org-35",
+      "name": "NexGen Motors",
+      "kind": "client",
+      "logo_url": "/media/organizations/nexgen-motors.jpg",
+      "notes": "Client.",
+      "sort_order": 28,
+      "is_active": true
+    },
+    {
+      "id": "org-36",
+      "name": "Nishat Group",
+      "kind": "client",
+      "logo_url": "/media/organizations/nishat-group.jpg",
+      "notes": "Client.",
+      "sort_order": 29,
+      "is_active": true
+    },
+    {
+      "id": "org-37",
+      "name": "Descon",
+      "kind": "client",
+      "logo_url": "/media/organizations/descon.jpg",
+      "notes": "Client.",
+      "sort_order": 30,
       "is_active": true
     }
   ],

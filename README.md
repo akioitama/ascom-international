@@ -26,7 +26,7 @@ No environment variables are required. Vercel fills the sitemap and page address
 
 - Statistics appear on the site only when an editor marks them verified and public. The old “70,000+ sq ft” and “100+” figures are stored and hidden, because the source page says the area should be customised to the actual size.
 - Road beautification and waste management exist as inactive divisions. They have no published service text.
-- Atmospheric photographs (technology and road safety) are labelled in the interface. Project photographs are the company’s own, taken from the existing project galleries.
+- Atmospheric photographs (technology and transportation) are labelled in the interface. Project photographs are the company’s own, taken from the existing project galleries.
 - A logo is captioned as a mark from the previous site, not as a contract.
 
 ## Images
@@ -40,7 +40,7 @@ Items without a photograph show a drawn placeholder with an icon. To replace one
 
 - 26 catalogue items: road safety products, signage, creative services and technology
 - The Agriculture and Energy and power industries
-- ASCOM's own photography for Technology Solutions, Road Safety and Automotive, which use labelled atmospheric images
+- ASCOM's own photography for Technology Solutions, Transportation and Automotive, which use labelled atmospheric images
 
 Refresh the local copies with `python scripts/fetch_media.py` if those files are missing. The script expects the logo downloads already saved under `research-raw/logos` from the research pass, or you can place the logo and organisation marks in `frontend/public/media` yourself.
 

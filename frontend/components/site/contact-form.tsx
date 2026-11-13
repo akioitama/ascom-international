@@ -12,7 +12,7 @@ export const CATEGORIES = [
   "Creative Solutions",
   "Technology Solutions",
   "Engineering",
-  "Road Safety",
+  "Safety",
   "Vehicle Customisation",
   "Products",
   "Careers",

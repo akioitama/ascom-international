@@ -10,7 +10,7 @@ import { cn, numberWord, pad } from "@/lib/utils";
 
 export const metadata: Metadata = {
   title: "Businesses",
-  description: "ASCOM International businesses: creative solutions, construction, manufacturing, technology, engineering, road safety and vehicle customisation.",
+  description: "ASCOM International businesses: creative solutions, construction, manufacturing, technology, engineering, road and fire safety, and vehicle customisation.",
   alternates: { canonical: "/businesses" },
 };
 
@@ -20,10 +20,9 @@ const spans = [
   "lg:col-span-4 lg:h-[440px]",
   "lg:col-span-4 lg:h-[440px]",
   "lg:col-span-4 lg:h-[440px]",
-  "lg:col-span-5 lg:h-[500px]",
-  "lg:col-span-7 lg:h-[500px]",
-  "lg:col-span-6 lg:h-[460px]",
-  "lg:col-span-6 lg:h-[460px]",
+  "lg:col-span-4 lg:h-[440px]",
+  "lg:col-span-4 lg:h-[440px]",
+  "lg:col-span-4 lg:h-[440px]",
 ];
 
 export default function BusinessesPage() {
@@ -52,7 +51,7 @@ export default function BusinessesPage() {
                   company={division.hero_is_company_photo}
                   zoom
                   tag="top-right"
-                  sizes={index < 2 || index > 4 ? "(min-width: 1024px) 58vw, 100vw" : "(min-width: 1024px) 33vw, 100vw"}
+                  sizes={index < 2 ? "(min-width: 1024px) 58vw, 100vw" : "(min-width: 1024px) 33vw, 100vw"}
                   className="absolute inset-0"
                 />
                 <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-navy via-navy/45 to-navy/10 transition-opacity duration-700 group-hover:opacity-90" />

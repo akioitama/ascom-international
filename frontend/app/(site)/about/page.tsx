@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUpRight, BadgeCheck, Compass, MessageSquare, RefreshCw, ShieldCheck, Users, type LucideIcon } from "lucide-react";
+import { GridFill } from "@/components/site/grid-fill";
 import { InquiryBand } from "@/components/site/inquiry-band";
 import { PageHero } from "@/components/site/page-hero";
 import { Photo } from "@/components/site/photo";
@@ -180,7 +181,7 @@ export default function AboutPage() {
               All businesses
             </Link>
           </div>
-          <ul className="mt-10 grid gap-px border border-line bg-line sm:grid-cols-2 lg:grid-cols-3">
+          <ul className="mt-10 grid gap-px border border-line bg-line sm:grid-cols-2 lg:grid-cols-4">
             {divisions.map((division, index) => (
               <li key={division.slug}>
                 <Link href={`/businesses/${division.slug}`} className="group flex h-full items-center justify-between gap-6 bg-white px-6 py-6 transition-colors hover:bg-paper">
@@ -192,6 +193,7 @@ export default function AboutPage() {
                 </Link>
               </li>
             ))}
+            <GridFill count={divisions.length} cols={{ sm: 2, lg: 4 }} />
           </ul>
         </div>
       </section>
