@@ -20,7 +20,6 @@ import { DivisionIndex } from "@/components/site/division-index";
 import { GridFill } from "@/components/site/grid-fill";
 import { InquiryBand } from "@/components/site/inquiry-band";
 import { Photo } from "@/components/site/photo";
-import { ProjectCard } from "@/components/site/project-card";
 import { Reveal } from "@/components/site/reveal";
 import { SectionHeading } from "@/components/site/section-heading";
 import { Button } from "@/components/ui/button";
@@ -33,8 +32,6 @@ export const metadata: Metadata = {
   description: "ASCOM International supplies signage, materials, equipment and road safety, and also manufactures, builds and supplies technology.",
   alternates: { canonical: "/" },
 };
-
-const featuredOrder = ["fire-crash-truck", "mobile-foam-unit", "rwmc-vehicle-branding", "cycle-boats", "wildlife-vehicle-back-body"];
 
 const valueIcons: Record<string, LucideIcon> = {
   refresh: RefreshCw,
@@ -63,18 +60,11 @@ function reasonIcon(title: string): LucideIcon {
 }
 
 export default function HomePage() {
-  const { profile, settings, values, divisions, highlights, projects, industries, organizations, statistics } = getHome();
+  const { profile, settings, values, divisions, highlights, industries, organizations, statistics } = getHome();
   const byOrder = (a: { sort_order?: number }, b: { sort_order?: number }) => (a.sort_order ?? 0) - (b.sort_order ?? 0);
   const reasons = highlights.filter((item) => item.group_key === "why").sort(byOrder);
   const clients = organizations.filter((item) => item.kind === "client");
   const registrations = organizations.filter((item) => item.kind === "registration");
-  const featured = [
-    ...featuredOrder.map((slug) => projects.find((item) => item.slug === slug)).filter((item): item is (typeof projects)[number] => Boolean(item)),
-    ...projects.filter((item) => !featuredOrder.includes(item.slug)),
-  ].slice(0, 4);
-  const [leadProject, ...supportProjects] = featured;
-  const allProjectCount = getProjects().length;
-  const introImage = projects.find((item) => item.slug === "wildlife-vehicle-branding") ?? projects[0];
   const [titleLead, titleRest] = splitTitle(settings.hero_title);
   const office = profile.head_office_address.split(",").slice(1, 3).join(",").trim();
   const facts = [
@@ -179,14 +169,16 @@ export default function HomePage() {
 
       <section className="bg-paper">
         <div className="shell py-16 lg:py-20">
-          <div className="grid gap-10 lg:grid-cols-12 lg:gap-6 lg:items-start">
-            <Reveal className="lg:col-span-5">
+          <div className="grid gap-8 lg:grid-cols-12 lg:gap-6">
+            <Reveal className="lg:col-span-6">
               <p className="eyebrow flex items-center gap-3 text-muted">
                 <span className="text-blue">(01)</span>
                 <span>{settings.intro_kicker}</span>
               </p>
               <h2 className="mt-5 max-w-2xl text-headline font-medium">{settings.intro_title}</h2>
-              <div className="mt-6 space-y-4">
+            </Reveal>
+            <Reveal className="lg:col-span-5 lg:col-start-8 lg:pt-8" delay={0.08}>
+              <div className="space-y-4">
                 {intro.map((paragraph, index) => (
                   <p key={paragraph.slice(0, 40)} className={index === 0 ? "text-lead text-ink" : "text-[1.02rem] leading-[1.7] text-ink/70"}>
                     {paragraph}
@@ -197,25 +189,6 @@ export default function HomePage() {
                 Read More
               </Button>
             </Reveal>
-
-            {introImage ? (
-              <Reveal className="lg:col-span-6 lg:col-start-7" delay={0.08}>
-                <Link href={`/projects/${introImage.slug}`} className="group block">
-                  <Photo
-                    src={introImage.images?.[2]?.url ?? introImage.cover_image}
-                    alt={introImage.images?.[2]?.alt ?? introImage.title}
-                    zoom
-                    frame
-                    sizes="(min-width: 1024px) 48vw, 100vw"
-                    className="aspect-[16/11]"
-                  />
-                  <p className="eyebrow mt-3 flex gap-3 text-muted">
-                    <span className="text-blue">Selected work</span>
-                    <span className="transition-colors group-hover:text-ink">{introImage.title}</span>
-                  </p>
-                </Link>
-              </Reveal>
-            ) : null}
           </div>
 
           {reasons.length > 0 ? (
@@ -274,67 +247,11 @@ export default function HomePage() {
         </div>
       </section>
 
-      {featured.length > 0 ? (
-        <section className="bg-white">
-          <div className="shell py-16 lg:py-20">
-            <Reveal>
-              <SectionHeading
-                index="03"
-                label="Featured projects"
-                title={
-                  <>
-                    Selected work, <span className="text-ink/50">across ASCOM&apos;s businesses.</span>
-                  </>
-                }
-                action={{ href: "/projects", label: `View all ${allProjectCount} projects` }}
-              />
-            </Reveal>
-            <div className="mt-10 grid gap-8 lg:mt-12 lg:grid-cols-12 lg:gap-6 lg:items-start">
-              {leadProject ? (
-                <Reveal className="lg:col-span-7">
-                  <ProjectCard
-                    project={leadProject}
-                    index={pad(1)}
-                    ratio="aspect-[16/10]"
-                    size="lg"
-                    sizes="(min-width: 1024px) 55vw, 100vw"
-                  />
-                </Reveal>
-              ) : null}
-              <div className="grid gap-6 sm:grid-cols-3 lg:col-span-5 lg:grid-cols-1 lg:gap-0 lg:border-t lg:border-line">
-                {supportProjects.map((project, index) => (
-                  <Reveal key={project.slug} delay={0.06 * (index + 1)}>
-                    <Link
-                      href={`/projects/${project.slug}`}
-                      className="group grid gap-4 border-b border-line py-5 sm:border-b-0 sm:border-t-0 lg:grid-cols-[7.5rem_minmax(0,1fr)] lg:items-center lg:gap-5 lg:border-b lg:border-line lg:py-4"
-                    >
-                      <div className="relative aspect-[4/3] overflow-hidden bg-mist lg:aspect-square">
-                        <Photo src={project.cover_image} alt={project.title} zoom sizes="(min-width: 1024px) 120px, 30vw" className="absolute inset-0" />
-                      </div>
-                      <div className="min-w-0">
-                        <p className="eyebrow flex flex-wrap gap-x-3 text-muted">
-                          <span className="text-blue">{pad(index + 2)}</span>
-                          {project.division?.name ? <span className="truncate">{project.division.name}</span> : null}
-                        </p>
-                        <h3 className="mt-2 text-[1.15rem] font-medium leading-snug tracking-tight transition-colors duration-300 group-hover:text-blue sm:text-[1.25rem]">
-                          {project.title}
-                        </h3>
-                        <p className="mt-1.5 line-clamp-2 text-sm leading-6 text-muted">{project.summary}</p>
-                      </div>
-                    </Link>
-                  </Reveal>
-                ))}
-              </div>
-            </div>
-          </div>
-        </section>
-      ) : null}
-
       <section className="bg-paper">
         <div className="shell py-16 lg:py-20">
           <Reveal>
             <SectionHeading
-              index="04"
+              index="03"
               label="Industries and organisations"
               title={
                 <>
@@ -385,7 +302,7 @@ export default function HomePage() {
         <div className="shell py-16 lg:py-20">
           <Reveal>
             <SectionHeading
-              index="05"
+              index="04"
               label="Values"
               title={
                 <>
