@@ -16,7 +16,7 @@ export function DivisionIndex({ items, header }: { items: Entry[]; header?: Reac
     <div className="grid gap-10 lg:grid-cols-12 lg:gap-6">
       <div className="lg:col-span-5">
         {header}
-        <div className="relative mt-10 hidden aspect-[3/2] overflow-hidden bg-deep lg:block">
+        <div className="relative mt-7 hidden aspect-[16/11] overflow-hidden bg-deep lg:block">
           {items.map((item, index) => (
             <div key={item.slug} className={cn("absolute inset-0 transition-[opacity,transform] duration-[900ms] ease-out-expo", index === active ? "scale-100 opacity-100" : "scale-[1.04] opacity-0")}>
               <Photo src={item.image} alt={item.caption || item.name} company={item.company} sizes="(min-width: 1024px) 38vw, 1px" tag="top" className="absolute inset-0" />
